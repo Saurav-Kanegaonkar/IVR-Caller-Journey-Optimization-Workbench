@@ -1,0 +1,43 @@
+journey_id,journey_name,intent,business_domain,owner_team,entry_channel,ivr_platform,auth_required,complexity,baseline_daily_calls,target_containment_rate,baseline_containment_rate,baseline_transfer_rate,estimated_transfer_cost
+JRN001,Payment arrangement flow 1,Payment arrangement,Billing,Account Services,toll-free,Genesys Cloud,Yes,High,3239,0.568,0.556,0.164,4.96
+JRN002,Outage status flow 1,Outage status,Support,Service Desk,mobile click-to-call,Avaya Aura,No,Moderate,1039,0.747,0.716,0.069,6.21
+JRN003,Order status flow 1,Order status,Fulfillment,Customer Care,branch transfer,Nuance Mix,No,High,742,0.637,0.56,0.14,6.82
+JRN004,Appointment reschedule flow 1,Appointment reschedule,Field Service,Scheduling,web callback,Genesys Cloud,Yes,High,3552,0.555,0.481,0.182,6.94
+JRN005,Password reset flow 1,Password reset,Digital Support,Account Services,toll-free,Avaya Aura,Yes,Low,646,0.803,0.671,0.082,5.57
+JRN006,Claims status flow 1,Claims status,Claims,Customer Care,mobile click-to-call,Nuance Mix,Yes,Moderate,1501,0.547,0.424,0.189,4.78
+JRN007,Benefits eligibility flow 1,Benefits eligibility,Member Services,Member Care,branch transfer,Genesys Cloud,Yes,High,2028,0.582,0.545,0.203,6.71
+JRN008,Technical troubleshooting flow 1,Technical troubleshooting,Support,Service Desk,web callback,Avaya Aura,No,Moderate,2170,0.416,0.348,0.293,8.25
+JRN009,Service cancellation flow 1,Service cancellation,Retention,Customer Care,toll-free,Nuance Mix,Yes,Moderate,2101,0.39,0.342,0.275,5.35
+JRN010,New service quote flow 1,New service quote,Sales,Inside Sales,mobile click-to-call,Genesys Cloud,No,Low,1805,0.529,0.471,0.287,6.02
+JRN011,Prescription refill flow 1,Prescription refill,Pharmacy,Member Care,branch transfer,Avaya Aura,Yes,Low,2477,0.724,0.627,0.107,5.27
+JRN012,Fraud alert review flow 1,Fraud alert review,Risk,Account Services,web callback,Nuance Mix,Yes,Moderate,1713,0.449,0.389,0.247,7.14
+JRN013,Document request flow 1,Document request,Back Office,Customer Care,toll-free,Genesys Cloud,Yes,High,2807,0.651,0.521,0.138,8.7
+JRN014,Agent callback flow 1,Agent callback,Support,Service Desk,mobile click-to-call,Avaya Aura,No,Moderate,3241,0.488,0.369,0.222,7.73
+JRN015,Payment arrangement flow 2,Payment arrangement,Billing,Account Services,branch transfer,Nuance Mix,Yes,Moderate,849,0.576,0.464,0.172,5.53
+JRN016,Outage status flow 2,Outage status,Support,Service Desk,web callback,Genesys Cloud,No,Low,1484,0.764,0.674,0.132,5.29
+JRN017,Order status flow 2,Order status,Fulfillment,Customer Care,toll-free,Avaya Aura,No,Moderate,2664,0.658,0.649,0.126,5.52
+JRN018,Appointment reschedule flow 2,Appointment reschedule,Field Service,Scheduling,mobile click-to-call,Nuance Mix,Yes,Moderate,1630,0.562,0.48,0.235,6.24
+JRN019,Password reset flow 2,Password reset,Digital Support,Account Services,branch transfer,Genesys Cloud,Yes,High,3010,0.778,0.679,0.14,6.59
+JRN020,Claims status flow 2,Claims status,Claims,Customer Care,web callback,Avaya Aura,Yes,Low,992,0.533,0.492,0.195,5.05
+JRN021,Benefits eligibility flow 2,Benefits eligibility,Member Services,Member Care,toll-free,Nuance Mix,Yes,Moderate,3407,0.57,0.448,0.168,8.73
+JRN022,Technical troubleshooting flow 2,Technical troubleshooting,Support,Service Desk,mobile click-to-call,Genesys Cloud,No,Low,2787,0.428,0.382,0.324,7.34
+JRN023,Service cancellation flow 2,Service cancellation,Retention,Customer Care,branch transfer,Avaya Aura,Yes,Low,1089,0.398,0.32,0.297,7.17
+JRN024,New service quote flow 2,New service quote,Sales,Inside Sales,web callback,Nuance Mix,No,High,1076,0.481,0.381,0.2,7.53
+JRN025,Prescription refill flow 2,Prescription refill,Pharmacy,Member Care,toll-free,Genesys Cloud,Yes,High,3567,0.698,0.645,0.088,8.37
+JRN026,Fraud alert review flow 2,Fraud alert review,Risk,Account Services,mobile click-to-call,Avaya Aura,Yes,Low,3181,0.421,0.383,0.301,5.02
+JRN027,Document request flow 2,Document request,Back Office,Customer Care,branch transfer,Nuance Mix,Yes,Moderate,3743,0.611,0.624,0.192,8.39
+JRN028,Agent callback flow 2,Agent callback,Support,Service Desk,web callback,Genesys Cloud,No,Low,3073,0.463,0.343,0.283,8.22
+JRN029,Payment arrangement flow 3,Payment arrangement,Billing,Account Services,toll-free,Avaya Aura,Yes,Low,1879,0.577,0.491,0.197,4.7
+JRN030,Outage status flow 3,Outage status,Support,Service Desk,mobile click-to-call,Nuance Mix,No,High,3617,0.734,0.609,0.136,7.72
+JRN031,Order status flow 3,Order status,Fulfillment,Customer Care,branch transfer,Genesys Cloud,No,Low,1145,0.676,0.653,0.097,6.67
+JRN032,Appointment reschedule flow 3,Appointment reschedule,Field Service,Scheduling,web callback,Avaya Aura,Yes,Low,3104,0.54,0.438,0.214,7.56
+JRN033,Password reset flow 3,Password reset,Digital Support,Account Services,toll-free,Nuance Mix,Yes,Moderate,1443,0.8,0.702,0.107,5.99
+JRN034,Claims status flow 3,Claims status,Claims,Customer Care,mobile click-to-call,Genesys Cloud,Yes,High,2739,0.512,0.412,0.186,4.44
+JRN035,Benefits eligibility flow 3,Benefits eligibility,Member Services,Member Care,branch transfer,Avaya Aura,Yes,Low,2888,0.556,0.469,0.137,7.13
+JRN036,Technical troubleshooting flow 3,Technical troubleshooting,Support,Service Desk,web callback,Nuance Mix,No,High,1557,0.415,0.314,0.263,6.61
+JRN037,Service cancellation flow 3,Service cancellation,Retention,Customer Care,toll-free,Genesys Cloud,Yes,High,1760,0.397,0.278,0.283,8.47
+JRN038,New service quote flow 3,New service quote,Sales,Inside Sales,mobile click-to-call,Avaya Aura,No,Moderate,2958,0.5,0.392,0.247,6.14
+JRN039,Prescription refill flow 3,Prescription refill,Pharmacy,Member Care,branch transfer,Nuance Mix,Yes,Moderate,1006,0.687,0.636,0.112,6.4
+JRN040,Fraud alert review flow 3,Fraud alert review,Risk,Account Services,web callback,Genesys Cloud,Yes,High,3606,0.404,0.385,0.305,4.62
+JRN041,Document request flow 3,Document request,Back Office,Customer Care,toll-free,Avaya Aura,Yes,Low,3602,0.624,0.612,0.125,5.19
+JRN042,Agent callback flow 3,Agent callback,Support,Service Desk,mobile click-to-call,Nuance Mix,No,High,2457,0.45,0.364,0.236,8.2

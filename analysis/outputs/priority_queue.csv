@@ -1,26 +1,43 @@
-entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
-CAL022,Caller journey 22,Growth,98.39,49.9,81.0,858979
-CAL023,Caller journey 23,Growth,94.91,51.1,79.4,792899
-CAL011,Caller journey 11,Strategic,84.84,50.8,80.0,657320
-CAL024,Caller journey 24,Core,84.69,52.3,80.4,644243
-CAL016,Caller journey 16,Strategic,83.96,49.5,81.3,661937
-CAL036,Caller journey 36,Core,83.39,51.7,79.8,627780
-CAL029,Caller journey 29,Growth,82.88,47.5,79.5,655947
-CAL019,Caller journey 19,Growth,81.19,52.4,81.1,597428
-CAL026,Caller journey 26,Watch,81.08,50.6,81.5,612739
-CAL017,Caller journey 17,Growth,81.07,51.7,79.5,594263
-CAL009,Caller journey 9,Growth,79.61,51.8,81.5,582170
-CAL030,Caller journey 30,Strategic,79.34,51.8,80.4,573325
-CAL008,Caller journey 8,Watch,78.81,49.7,79.9,582042
-CAL004,Caller journey 4,Growth,78.45,49.9,80.9,579571
-CAL002,Caller journey 2,Watch,78.06,48.8,81.1,584734
-CAL020,Caller journey 20,Core,77.37,50.5,81.4,562029
-CAL007,Caller journey 7,Core,77.21,51.5,80.6,546753
-CAL021,Caller journey 21,Watch,77.06,50.5,80.2,551704
-CAL005,Caller journey 5,Strategic,76.76,52.1,81.2,538228
-CAL032,Caller journey 32,Growth,76.18,48.9,80.0,551991
-CAL027,Caller journey 27,Core,76.06,48.8,81.6,559027
-CAL001,Caller journey 1,Strategic,75.70,49.1,80.6,546305
-CAL006,Caller journey 6,Strategic,75.57,51.8,80.1,518932
-CAL013,Caller journey 13,Strategic,75.47,49.8,82.0,543356
-CAL010,Caller journey 10,Watch,74.09,52.5,79.2,488893
+journey_id,journey_name,intent,owner_team,ivr_platform,offered_calls,containment_rate,transfer_rate,abandon_rate,repeat_call_rate,no_match_rate,no_input_rate,auth_fail_rate,data_quality_score,monthly_transfer_cost,annualized_savings_opportunity,stakeholder_requests,action_candidates,avg_action_lift,avg_effort_hours,priority_score,recommended_next_move
+JRN028,Agent callback flow 2,Agent callback,Service Desk,Genesys Cloud,84251,33.4,28.3,7.2,13.3,5.6,4.3,1.4,84.8,196294.0,1158599.0,2,4,6.0,16.8,74.6,Review routing rule and self-service eligibility
+JRN014,Agent callback flow 1,Agent callback,Service Desk,Avaya Aura,84726,37.1,22.4,9.9,11.8,5.6,4.3,1.7,84.9,146901.0,999603.0,2,4,5.3,27.5,73.0,Review routing rule and self-service eligibility
+JRN013,Document request flow 1,Document request,Customer Care,Genesys Cloud,75680,52.2,13.7,14.7,11.2,8.2,4.3,6.8,79.9,90341.0,1102915.0,2,4,3.1,27.5,72.5,Validate source definitions before publishing
+JRN030,Outage status flow 3,Outage status,Service Desk,Nuance Mix,91352,61.6,13.2,14.7,11.4,8.5,4.6,1.6,81.9,93312.0,1085029.0,2,4,4.7,24.2,72.3,Validate source definitions before publishing
+JRN032,Appointment reschedule flow 3,Appointment reschedule,Scheduling,Avaya Aura,84065,44.2,21.5,7.6,11.6,5.4,4.4,6.4,82.0,136912.0,811115.0,2,4,4.8,17.8,72.0,Monitor in weekly Tableau operating review
+JRN021,Benefits eligibility flow 2,Benefits eligibility,Member Care,Nuance Mix,88560,44.8,16.6,9.6,10.6,5.5,4.3,6.7,82.3,128444.0,1222764.0,2,4,4.8,21.0,71.9,Monitor in weekly Tableau operating review
+JRN004,Appointment reschedule flow 1,Appointment reschedule,Scheduling,Genesys Cloud,94333,47.8,18.8,14.7,12.0,8.0,4.2,6.4,80.2,122845.0,656244.0,3,4,4.9,22.5,70.5,Validate source definitions before publishing
+JRN037,Service cancellation flow 3,Service cancellation,Customer Care,Genesys Cloud,44811,27.6,28.1,14.7,13.9,8.3,4.3,6.4,79.8,106739.0,595141.0,2,4,3.6,17.2,70.2,Validate source definitions before publishing
+JRN038,New service quote flow 3,New service quote,Inside Sales,Avaya Aura,78047,39.1,24.6,9.7,12.2,5.6,4.6,1.4,84.6,117649.0,678111.0,2,4,3.9,14.8,69.6,Review routing rule and self-service eligibility
+JRN019,Password reset flow 2,Password reset,Account Services,Genesys Cloud,81514,68.0,13.8,14.2,11.1,8.0,6.0,6.3,78.7,74151.0,687750.0,2,4,5.1,31.8,69.3,Validate source definitions before publishing
+JRN042,Agent callback flow 3,Agent callback,Service Desk,Nuance Mix,62864,36.7,23.8,15.0,13.1,8.4,4.6,1.4,82.2,122770.0,557070.0,2,4,3.7,23.5,68.2,Rewrite intent prompt and add grammar variants
+JRN034,Claims status flow 3,Claims status,Customer Care,Genesys Cloud,75524,41.2,18.9,14.7,12.3,8.4,4.2,6.6,79.5,63310.0,436957.0,2,4,5.8,16.0,65.5,Validate source definitions before publishing
+JRN035,Benefits eligibility flow 3,Benefits eligibility,Member Care,Avaya Aura,74140,46.3,13.7,7.1,10.3,5.5,6.1,6.6,81.2,72569.0,639268.0,2,4,4.7,25.8,65.5,Validate source definitions before publishing
+JRN025,Prescription refill flow 2,Prescription refill,Member Care,Genesys Cloud,95468,64.3,8.5,14.9,10.2,8.2,4.3,6.5,79.8,67764.0,571542.0,2,4,5.2,25.2,65.4,Validate source definitions before publishing
+JRN008,Technical troubleshooting flow 1,Technical troubleshooting,Service Desk,Avaya Aura,58144,34.8,29.2,9.6,13.3,5.8,4.3,1.4,84.5,139904.0,425343.0,2,4,6.8,18.2,65.0,Review routing rule and self-service eligibility
+JRN022,Technical troubleshooting flow 2,Technical troubleshooting,Service Desk,Genesys Cloud,73963,37.9,32.5,7.5,13.7,5.3,4.5,1.5,84.8,176388.0,342383.0,2,4,4.8,22.2,64.7,Review routing rule and self-service eligibility
+JRN036,Technical troubleshooting flow 3,Technical troubleshooting,Service Desk,Nuance Mix,41431,31.2,26.3,14.8,13.6,8.3,4.5,1.6,82.0,71910.0,366909.0,2,4,6.2,18.0,63.7,Validate source definitions before publishing
+JRN040,Fraud alert review flow 3,Fraud alert review,Account Services,Genesys Cloud,94394,38.3,30.5,14.4,14.2,8.4,4.4,6.3,79.6,133056.0,120971.0,2,4,3.7,24.8,63.7,Validate source definitions before publishing
+JRN026,Fraud alert review flow 2,Fraud alert review,Account Services,Avaya Aura,84566,38.3,29.9,7.0,13.2,5.7,4.3,6.3,82.5,127116.0,208916.0,2,4,5.8,28.8,62.3,Review routing rule and self-service eligibility
+JRN011,Prescription refill flow 1,Prescription refill,Member Care,Avaya Aura,66628,62.0,11.1,6.8,9.6,5.6,6.1,6.6,80.8,39072.0,475779.0,2,4,4.3,29.2,60.8,Validate source definitions before publishing
+JRN018,Appointment reschedule flow 2,Appointment reschedule,Scheduling,Nuance Mix,43274,47.4,24.0,9.6,12.2,5.8,4.5,6.4,82.5,64784.0,307525.0,2,4,3.6,18.5,60.5,Review routing rule and self-service eligibility
+JRN009,Service cancellation flow 1,Service cancellation,Customer Care,Nuance Mix,55456,34.2,28.1,9.6,13.1,5.4,4.4,6.4,82.3,83273.0,183601.0,2,4,5.4,22.2,60.2,Review routing rule and self-service eligibility
+JRN012,Fraud alert review flow 1,Fraud alert review,Account Services,Nuance Mix,46961,39.6,24.9,10.1,12.3,5.6,4.2,6.4,82.0,83409.0,233024.0,2,4,5.5,10.0,59.6,Review routing rule and self-service eligibility
+JRN010,New service quote flow 1,New service quote,Inside Sales,Genesys Cloud,48873,47.4,28.9,6.9,13.0,5.7,4.6,1.8,84.8,84990.0,208549.0,2,4,4.1,23.5,59.2,Review routing rule and self-service eligibility
+JRN007,Benefits eligibility flow 1,Benefits eligibility,Member Care,Genesys Cloud,55811,55.1,20.0,14.5,12.4,8.1,5.8,6.5,79.1,74998.0,150385.0,2,4,4.0,22.2,59.0,Validate source definitions before publishing
+JRN006,Claims status flow 1,Claims status,Customer Care,Nuance Mix,39357,41.9,19.0,9.4,11.4,5.8,4.4,6.6,82.2,35716.0,313824.0,3,4,5.3,21.5,58.6,Monitor in weekly Tableau operating review
+JRN023,Service cancellation flow 2,Service cancellation,Customer Care,Avaya Aura,28411,32.3,29.2,7.6,13.2,5.7,6.1,6.2,80.7,59382.0,198778.0,2,4,5.1,22.0,58.6,Validate source definitions before publishing
+JRN024,New service quote flow 2,New service quote,Inside Sales,Nuance Mix,28885,37.2,19.5,14.9,12.2,8.0,4.1,1.2,82.8,42522.0,307540.0,2,4,7.0,13.5,58.5,Rewrite intent prompt and add grammar variants
+JRN029,Payment arrangement flow 3,Payment arrangement,Account Services,Avaya Aura,48877,49.0,20.0,7.2,11.5,5.8,4.6,6.5,82.0,45999.0,259005.0,2,4,6.0,19.0,58.1,Monitor in weekly Tableau operating review
+JRN001,Payment arrangement flow 1,Payment arrangement,Account Services,Genesys Cloud,90296,56.6,16.0,14.1,11.6,8.6,4.2,6.4,79.4,71444.0,13549.0,3,4,4.0,19.8,56.2,Validate source definitions before publishing
+JRN027,Document request flow 2,Document request,Customer Care,Nuance Mix,100848,62.1,19.6,9.6,11.3,5.9,6.0,6.4,80.6,165551.0,0.0,2,4,4.4,28.2,55.9,Validate source definitions before publishing
+JRN033,Password reset flow 3,Password reset,Account Services,Nuance Mix,37823,70.1,10.8,9.5,10.1,5.6,4.3,6.5,82.6,24541.0,292277.0,2,4,5.8,17.8,55.0,Monitor in weekly Tableau operating review
+JRN016,Outage status flow 2,Outage status,Service Desk,Genesys Cloud,39737,67.0,13.8,6.9,10.4,5.6,4.3,1.4,84.9,28952.0,255898.0,2,4,6.7,15.5,54.0,Monitor in weekly Tableau operating review
+JRN015,Payment arrangement flow 2,Payment arrangement,Account Services,Nuance Mix,23426,46.5,16.8,9.5,10.8,5.6,6.0,6.6,80.8,21705.0,186653.0,2,4,4.5,21.0,53.7,Validate source definitions before publishing
+JRN041,Document request flow 3,Document request,Customer Care,Avaya Aura,95765,61.6,12.7,7.1,10.3,5.8,4.5,6.5,82.5,63121.0,49008.0,2,4,6.5,29.8,53.4,Monitor in weekly Tableau operating review
+JRN017,Order status flow 2,Order status,Customer Care,Avaya Aura,69899,64.8,12.8,9.3,10.3,5.8,4.4,1.5,84.4,49509.0,48620.0,2,4,4.3,26.2,52.0,Monitor in weekly Tableau operating review
+JRN003,Order status flow 1,Order status,Customer Care,Nuance Mix,19737,56.2,13.3,14.8,11.1,8.4,6.0,1.6,80.9,17889.0,130549.0,3,4,5.0,32.2,51.9,Validate source definitions before publishing
+JRN020,Claims status flow 2,Claims status,Customer Care,Avaya Aura,26092,48.8,19.8,6.8,11.4,5.5,4.4,6.6,82.4,26129.0,76550.0,2,4,6.4,29.5,51.9,Monitor in weekly Tableau operating review
+JRN039,Prescription refill flow 3,Prescription refill,Member Care,Nuance Mix,27009,62.5,10.7,9.4,9.6,5.8,6.0,6.5,81.2,18573.0,138210.0,2,4,4.5,24.0,51.0,Validate source definitions before publishing
+JRN005,Password reset flow 1,Password reset,Account Services,Avaya Aura,17028,67.8,8.6,7.1,9.5,5.6,4.3,6.7,82.0,8160.0,154630.0,3,4,4.8,18.5,48.2,Validate source definitions before publishing
+JRN031,Order status flow 3,Order status,Customer Care,Genesys Cloud,31560,65.2,9.8,6.9,9.4,5.3,6.0,1.6,83.7,20697.0,64648.0,2,4,5.1,18.8,48.2,Shorten menu prompt and add repeat guidance
+JRN002,Outage status flow 1,Outage status,Service Desk,Avaya Aura,27618,71.3,7.4,9.7,9.1,5.4,4.3,1.6,85.3,12668.0,75293.0,3,4,4.9,22.2,47.2,Monitor in weekly Tableau operating review

@@ -1,8 +1,7 @@
-# Data Sources
+# Synthetic Data Notes
 
-Synthetic source-style data for IVR caller behavior analytics, customer journey optimization, Tableau reporting, and CX design recommendations.
+This artifact uses deterministic synthetic data because real IVR path logs, authentication outcomes, DTMF or speech-recognition misses, transfer reasons, and repeat-call behavior are sensitive operational records.
 
-- `entities.csv`: 36 caller journey records.
-- `daily_metrics.csv`: 5,040 caller journey-day metric rows.
-- `source_events.csv`: 760 operational events, QA checks, experiments, and stakeholder asks.
-- `recommended_actions.csv`: 220 candidate actions with effort and expected lift.
+The generator models common contact-center self-service structures: platform, entry channel, authentication requirement, journey complexity, daily call volume, containment, transfer, abandon, no-match, no-input, authentication failure, repeat-call behavior, Tableau refresh status, stakeholder requests, and recommendation actions.
+
+Distributions are seeded in `scripts/score_operating_data.py`. Call volume uses normal variation around journey baselines with weekday effects. Containment, transfer, abandon, no-match, no-input, and authentication failure rates vary by journey type, authentication requirement, and complexity. Transfer-cost opportunity is calculated from modeled transfer volume, target containment gap, and estimated cost per transferred call.

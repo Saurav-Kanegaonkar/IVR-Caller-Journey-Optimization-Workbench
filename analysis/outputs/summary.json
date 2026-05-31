@@ -1,0 +1,11 @@
+{
+  "modeled_calls": 2537204,
+  "journeys_ranked": 42,
+  "containment_rate": 49.0,
+  "transfer_rate": 19.7,
+  "annualized_savings_top_10": 8997271.0,
+  "stakeholder_requests": 90,
+  "late_refresh_days": 55,
+  "top_journey": "Agent callback flow 2",
+  "top_next_move": "Review routing rule and self-service eligibility"
+}

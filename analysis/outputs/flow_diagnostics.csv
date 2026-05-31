@@ -1,0 +1,238 @@
+journey_id,step_name,callers_entered,completion_rate,drop_off_rate,no_match_rate,no_input_rate,transfer_rate,avg_step_seconds,friction_index
+JRN037,Intent capture,19524,85.2,13.0,5.6,3.5,1.9,71.0,7.7
+JRN001,Intent capture,73994,85.9,12.7,5.9,3.8,1.4,70.0,7.6
+JRN003,Intent capture,18433,85.9,12.8,5.7,3.7,1.3,70.0,7.6
+JRN004,Intent capture,81498,85.9,12.7,5.7,3.5,1.4,70.0,7.5
+JRN040,Intent capture,41310,85.6,12.8,5.6,3.5,1.6,73.0,7.5
+JRN042,Intent capture,30948,85.6,12.9,5.2,3.8,1.6,71.0,7.5
+JRN019,Intent capture,71082,85.7,12.8,5.1,3.7,1.5,69.0,7.4
+JRN030,Intent capture,88650,85.6,12.8,5.1,3.6,1.5,70.0,7.4
+JRN034,Intent capture,31881,85.8,12.5,5.6,3.4,1.7,72.0,7.4
+JRN007,Intent capture,44918,86.0,12.7,4.8,3.9,1.3,74.0,7.3
+JRN013,Intent capture,64010,86.0,12.6,5.1,3.7,1.4,70.0,7.3
+JRN036,Intent capture,19543,85.8,12.6,4.8,3.6,1.5,71.0,7.3
+JRN024,Intent capture,27219,86.1,12.6,4.8,3.7,1.3,71.0,7.2
+JRN025,Intent capture,79153,86.4,12.2,5.3,3.6,1.4,70.0,7.2
+JRN009,Intent capture,51415,88.8,9.9,5.6,3.6,1.3,71.0,6.3
+JRN017,Intent capture,68020,88.7,9.8,5.4,3.8,1.4,69.0,6.3
+JRN002,Intent capture,26569,88.7,9.9,5.1,3.7,1.4,70.0,6.2
+JRN010,Intent capture,45100,89.1,9.6,5.5,3.9,1.3,69.0,6.2
+JRN014,Intent capture,80837,88.5,10.0,4.8,3.9,1.5,74.0,6.2
+JRN022,Intent capture,69829,89.1,9.5,5.9,3.7,1.4,73.0,6.2
+JRN031,Intent capture,14588,89.3,9.6,5.8,3.7,1.1,68.0,6.2
+JRN006,Intent capture,34978,89.2,9.5,5.4,3.7,1.3,71.0,6.1
+JRN011,Intent capture,60556,89.0,9.5,5.3,3.5,1.4,71.0,6.1
+JRN012,Intent capture,41429,89.0,9.5,5.3,3.5,1.5,71.0,6.1
+JRN016,Intent capture,37828,89.0,9.8,5.2,3.6,1.2,70.0,6.1
+JRN018,Intent capture,38942,89.0,9.7,5.3,3.6,1.3,73.0,6.1
+JRN023,Intent capture,26253,88.9,9.7,5.5,3.3,1.4,70.0,6.1
+JRN026,Intent capture,76822,88.9,9.7,5.0,3.7,1.4,70.0,6.1
+JRN029,Intent capture,44518,89.1,9.5,5.4,3.5,1.4,75.0,6.1
+JRN032,Intent capture,37703,88.9,9.8,4.9,3.7,1.2,68.0,6.1
+JRN035,Intent capture,34396,88.7,9.7,5.0,3.6,1.7,75.0,6.1
+JRN039,Intent capture,12107,89.0,9.5,5.3,3.8,1.5,70.0,6.1
+JRN008,Intent capture,54327,88.8,9.5,4.8,3.5,1.7,72.0,6.0
+JRN020,Intent capture,24249,89.4,9.3,5.5,3.5,1.3,73.0,6.0
+JRN021,Intent capture,83619,88.9,9.6,4.9,3.7,1.5,69.0,6.0
+JRN028,Intent capture,78028,89.0,9.7,4.9,3.6,1.3,70.0,6.0
+JRN038,Intent capture,37223,89.2,9.6,5.1,3.5,1.2,72.0,6.0
+JRN041,Intent capture,42640,89.4,9.3,5.3,3.6,1.2,73.0,6.0
+JRN005,Intent capture,15842,89.3,9.6,4.8,3.3,1.1,73.0,5.9
+JRN015,Intent capture,20813,89.4,9.3,5.1,3.7,1.3,69.0,5.9
+JRN027,Intent capture,88276,89.2,9.5,5.2,3.1,1.2,72.0,5.9
+JRN033,Intent capture,16833,89.3,9.4,5.1,3.5,1.2,69.0,5.9
+JRN040,Eligibility or account lookup,35374,85.8,12.6,0.6,0.5,1.6,87.0,5.8
+JRN001,Eligibility or account lookup,63584,86.3,12.3,0.7,0.5,1.4,91.0,5.7
+JRN004,Eligibility or account lookup,70047,86.1,12.4,0.6,0.4,1.5,90.0,5.7
+JRN019,Eligibility or account lookup,60930,86.4,12.3,0.7,0.5,1.3,92.0,5.7
+JRN036,Eligibility or account lookup,16777,86.2,12.2,0.6,0.5,1.5,90.0,5.7
+JRN037,Eligibility or account lookup,16625,86.1,12.3,0.7,0.6,1.6,92.0,5.7
+JRN007,Eligibility or account lookup,38632,86.4,12.2,0.7,0.4,1.4,90.0,5.6
+JRN013,Eligibility or account lookup,55065,86.5,12.2,0.7,0.4,1.3,94.0,5.6
+JRN019,Agent transfer,46429,86.4,12.1,0.7,0.5,1.6,128.0,5.6
+JRN024,Eligibility or account lookup,23446,86.3,12.1,0.7,0.4,1.6,90.0,5.6
+JRN030,Eligibility or account lookup,75928,86.5,12.0,0.7,0.4,1.5,95.0,5.6
+JRN034,Agent transfer,20753,86.5,12.0,0.6,0.5,1.5,126.0,5.6
+JRN037,Agent transfer,12644,86.3,12.1,0.6,0.5,1.6,127.0,5.6
+JRN042,Agent transfer,20189,86.5,12.1,0.7,0.6,1.5,126.0,5.6
+JRN001,Agent transfer,48316,86.7,11.8,0.6,0.5,1.5,128.0,5.5
+JRN003,Eligibility or account lookup,15830,86.7,12.0,0.6,0.4,1.3,90.0,5.5
+JRN003,Agent transfer,12119,86.8,11.9,0.7,0.3,1.3,129.0,5.5
+JRN024,Agent transfer,17849,86.7,12.0,0.6,0.4,1.3,129.0,5.5
+JRN025,Eligibility or account lookup,68399,86.4,12.0,0.6,0.5,1.6,89.0,5.5
+JRN030,Agent transfer,57539,86.7,11.9,0.7,0.5,1.3,127.0,5.5
+JRN034,Eligibility or account lookup,27356,86.5,12.0,0.7,0.4,1.5,90.0,5.5
+JRN042,Eligibility or account lookup,26485,86.6,11.8,0.7,0.5,1.6,92.0,5.5
+JRN013,Agent transfer,42051,87.0,11.9,0.6,0.4,1.1,126.0,5.4
+JRN025,Agent transfer,52117,86.9,11.6,0.7,0.4,1.4,127.0,5.4
+JRN040,Agent transfer,26640,86.9,11.7,0.8,0.5,1.4,128.0,5.4
+JRN004,Agent transfer,53050,87.3,11.5,0.7,0.5,1.2,129.0,5.3
+JRN007,Agent transfer,29364,87.1,11.5,0.7,0.4,1.4,131.0,5.3
+JRN036,Agent transfer,12723,87.3,11.6,0.6,0.4,1.0,128.0,5.3
+JRN030,Self-service resolution,65658,87.6,10.9,0.7,0.4,1.5,108.0,5.1
+JRN034,Self-service resolution,23673,87.7,10.9,0.7,0.6,1.4,114.0,5.1
+JRN004,Self-service resolution,60341,87.9,10.6,0.7,0.5,1.5,109.0,5.0
+JRN036,Self-service resolution,14465,88.0,10.6,0.6,0.6,1.4,110.0,5.0
+JRN040,Self-service resolution,30355,87.8,10.7,0.7,0.6,1.6,109.0,5.0
+JRN042,Self-service resolution,22943,88.0,10.9,0.6,0.5,1.1,108.0,5.0
+JRN001,Self-service resolution,54896,88.0,10.4,0.7,0.5,1.5,109.0,4.9
+JRN003,Self-service resolution,13720,88.3,10.5,0.7,0.4,1.2,109.0,4.9
+JRN007,Self-service resolution,33366,88.0,10.4,0.6,0.5,1.6,108.0,4.9
+JRN019,Self-service resolution,52619,88.2,10.5,0.6,0.5,1.3,107.0,4.9
+JRN024,Self-service resolution,20237,88.2,10.6,0.6,0.4,1.2,109.0,4.9
+JRN025,Self-service resolution,59123,88.2,10.5,0.7,0.5,1.3,110.0,4.9
+JRN013,Self-service resolution,47642,88.3,10.4,0.6,0.4,1.4,109.0,4.8
+JRN037,Self-service resolution,14319,88.3,10.4,0.5,0.5,1.3,110.0,4.8
+JRN022,Eligibility or account lookup,62208,89.0,9.4,0.7,0.6,1.5,90.0,4.5
+JRN002,Eligibility or account lookup,23578,89.3,9.3,0.7,0.4,1.5,91.0,4.4
+JRN006,Eligibility or account lookup,31205,89.2,9.3,0.5,0.4,1.5,89.0,4.4
+JRN008,Eligibility or account lookup,48222,89.2,9.4,0.6,0.4,1.4,92.0,4.4
+JRN014,Eligibility or account lookup,71560,89.3,9.2,0.7,0.4,1.5,91.0,4.4
+JRN016,Eligibility or account lookup,33656,89.3,9.3,0.8,0.5,1.4,88.0,4.4
+JRN020,Eligibility or account lookup,21668,89.3,9.4,0.6,0.5,1.4,92.0,4.4
+JRN021,Eligibility or account lookup,74367,89.4,9.3,0.6,0.6,1.4,92.0,4.4
+JRN023,Eligibility or account lookup,23349,89.3,9.3,0.7,0.5,1.4,89.0,4.4
+JRN027,Agent transfer,64157,89.2,9.1,0.7,0.4,1.6,129.0,4.4
+JRN029,Eligibility or account lookup,39675,89.1,9.2,0.6,0.5,1.7,92.0,4.4
+JRN038,Eligibility or account lookup,33210,89.3,9.4,0.7,0.5,1.3,91.0,4.4
+JRN039,Eligibility or account lookup,10773,89.4,9.5,0.6,0.3,1.2,94.0,4.4
+JRN039,Agent transfer,8773,89.0,9.2,0.6,0.5,1.8,128.0,4.4
+JRN041,Eligibility or account lookup,38130,89.3,9.2,0.8,0.5,1.5,89.0,4.4
+JRN005,Eligibility or account lookup,14147,89.5,9.1,0.5,0.4,1.4,91.0,4.3
+JRN009,Eligibility or account lookup,45657,89.4,9.1,0.7,0.5,1.5,93.0,4.3
+JRN011,Eligibility or account lookup,53905,89.4,9.1,0.7,0.5,1.5,90.0,4.3
+JRN015,Eligibility or account lookup,18614,89.6,9.2,0.7,0.4,1.2,90.0,4.3
+JRN017,Eligibility or account lookup,60365,89.5,9.1,0.6,0.5,1.4,88.0,4.3
+JRN018,Eligibility or account lookup,34669,89.7,9.0,0.7,0.4,1.3,91.0,4.3
+JRN026,Eligibility or account lookup,68283,89.5,9.1,0.7,0.5,1.4,90.0,4.3
+JRN026,Agent transfer,55807,89.6,8.8,0.8,0.4,1.6,131.0,4.3
+JRN027,Eligibility or account lookup,78760,89.5,9.2,0.7,0.5,1.3,91.0,4.3
+JRN028,Eligibility or account lookup,69440,89.4,9.1,0.7,0.4,1.5,90.0,4.3
+JRN031,Eligibility or account lookup,13025,89.5,9.2,0.7,0.4,1.3,88.0,4.3
+JRN032,Eligibility or account lookup,33532,89.6,9.1,0.7,0.3,1.3,92.0,4.3
+JRN033,Eligibility or account lookup,15038,89.4,9.1,0.7,0.4,1.4,92.0,4.3
+JRN009,Agent transfer,37128,89.9,8.8,0.6,0.5,1.3,128.0,4.2
+JRN010,Eligibility or account lookup,40204,89.9,8.9,0.7,0.5,1.2,92.0,4.2
+JRN011,Agent transfer,43993,89.8,8.7,0.7,0.4,1.5,128.0,4.2
+JRN012,Eligibility or account lookup,36889,89.6,8.9,0.6,0.5,1.4,90.0,4.2
+JRN016,Agent transfer,27283,89.5,8.8,0.6,0.5,1.7,128.0,4.2
+JRN017,Agent transfer,48981,89.9,8.8,0.6,0.5,1.3,130.0,4.2
+JRN020,Agent transfer,17588,90.0,8.8,0.7,0.4,1.1,127.0,4.2
+JRN021,Agent transfer,60624,90.0,8.8,0.7,0.5,1.2,127.0,4.2
+JRN028,Agent transfer,56491,89.9,8.7,0.6,0.5,1.4,129.0,4.2
+JRN029,Agent transfer,32085,89.7,8.8,0.6,0.4,1.4,129.0,4.2
+JRN031,Agent transfer,10644,89.9,8.8,0.7,0.5,1.3,129.0,4.2
+JRN035,Eligibility or account lookup,30502,89.9,8.8,0.7,0.5,1.3,90.0,4.2
+JRN035,Agent transfer,24998,89.7,8.9,0.6,0.5,1.4,129.0,4.2
+JRN038,Agent transfer,27098,89.8,8.9,0.6,0.4,1.4,131.0,4.2
+JRN006,Agent transfer,25339,90.1,8.5,0.6,0.5,1.3,128.0,4.1
+JRN008,Agent transfer,39083,90.1,8.7,0.7,0.5,1.3,128.0,4.1
+JRN010,Agent transfer,32929,89.9,8.7,0.6,0.4,1.4,128.0,4.1
+JRN012,Agent transfer,30125,90.0,8.7,0.7,0.4,1.2,131.0,4.1
+JRN014,Agent transfer,58481,89.9,8.7,0.7,0.5,1.4,132.0,4.1
+JRN015,Agent transfer,15235,90.0,8.9,0.5,0.4,1.2,129.0,4.1
+JRN018,Agent transfer,28231,89.9,8.7,0.7,0.4,1.4,126.0,4.1
+JRN022,Agent transfer,50416,90.2,8.7,0.8,0.5,1.1,128.0,4.1
+JRN005,Agent transfer,11533,90.1,8.6,0.6,0.4,1.4,129.0,4.0
+JRN023,Agent transfer,19032,90.3,8.4,0.7,0.4,1.2,129.0,4.0
+JRN032,Agent transfer,27261,90.4,8.3,0.8,0.5,1.3,127.0,4.0
+JRN033,Agent transfer,12169,90.1,8.5,0.6,0.5,1.4,129.0,4.0
+JRN041,Agent transfer,31047,90.3,8.2,0.7,0.4,1.5,126.0,4.0
+JRN002,Agent transfer,19142,90.6,8.2,0.6,0.5,1.2,127.0,3.9
+JRN033,Self-service resolution,13448,90.5,7.9,0.8,0.5,1.7,114.0,3.9
+JRN016,Self-service resolution,30062,90.8,7.7,0.6,0.4,1.5,108.0,3.8
+JRN017,Self-service resolution,54030,90.7,7.9,0.7,0.4,1.5,111.0,3.8
+JRN018,Self-service resolution,31084,90.8,7.8,0.7,0.4,1.4,110.0,3.8
+JRN029,Self-service resolution,35364,90.7,7.7,0.6,0.5,1.5,108.0,3.8
+JRN002,Self-service resolution,21047,90.9,7.7,0.6,0.5,1.4,108.0,3.7
+JRN008,Self-service resolution,43020,90.8,7.6,0.6,0.4,1.5,110.0,3.7
+JRN009,Self-service resolution,40834,90.9,7.6,0.7,0.5,1.5,108.0,3.7
+JRN010,Self-service resolution,36134,91.1,7.6,0.7,0.4,1.3,109.0,3.7
+JRN020,Self-service resolution,19340,90.9,7.7,0.6,0.4,1.4,107.0,3.7
+JRN022,Self-service resolution,55388,91.0,7.7,0.7,0.5,1.3,106.0,3.7
+JRN027,Self-service resolution,70523,91.0,7.6,0.6,0.5,1.4,111.0,3.7
+JRN028,Self-service resolution,62114,90.9,7.5,0.6,0.5,1.5,110.0,3.7
+JRN032,Self-service resolution,30032,90.8,7.5,0.7,0.6,1.7,109.0,3.7
+JRN035,Self-service resolution,27414,91.2,7.6,0.6,0.6,1.2,109.0,3.7
+JRN039,Self-service resolution,9627,91.1,7.8,0.7,0.3,1.1,111.0,3.7
+JRN005,Self-service resolution,12655,91.1,7.6,0.6,0.3,1.3,110.0,3.6
+JRN006,Self-service resolution,27826,91.1,7.5,0.7,0.4,1.5,108.0,3.6
+JRN007,Greeting and language,52858,92.5,6.1,0.7,3.8,1.4,34.0,3.6
+JRN011,Self-service resolution,48187,91.3,7.4,0.7,0.5,1.3,109.0,3.6
+JRN012,Self-service resolution,33055,91.1,7.5,0.6,0.4,1.4,111.0,3.6
+JRN015,Self-service resolution,16682,91.3,7.4,0.6,0.4,1.3,108.0,3.6
+JRN021,Self-service resolution,66474,91.2,7.6,0.7,0.4,1.2,109.0,3.6
+JRN023,Self-service resolution,20859,91.2,7.4,0.6,0.4,1.4,109.0,3.6
+JRN026,Self-service resolution,61133,91.3,7.3,0.8,0.5,1.4,111.0,3.6
+JRN031,Self-service resolution,11660,91.3,7.3,0.7,0.5,1.4,109.0,3.6
+JRN041,Self-service resolution,34064,91.1,7.6,0.7,0.3,1.3,111.0,3.6
+JRN001,Greeting and language,87327,92.6,6.2,0.7,3.6,1.3,34.0,3.5
+JRN001,Caller authentication,80828,91.5,7.0,0.7,0.5,1.4,52.0,3.5
+JRN014,Self-service resolution,63928,91.5,7.3,0.7,0.5,1.3,110.0,3.5
+JRN037,Caller authentication,21311,91.6,7.1,0.7,0.5,1.3,49.0,3.5
+JRN038,Self-service resolution,29669,91.3,7.2,0.7,0.5,1.5,113.0,3.5
+JRN040,Greeting and language,48713,92.4,6.2,0.7,3.4,1.4,36.0,3.5
+JRN042,Greeting and language,33357,92.8,6.0,0.7,3.7,1.3,32.0,3.5
+JRN003,Greeting and language,19859,92.8,5.8,0.7,3.5,1.4,33.0,3.4
+JRN004,Greeting and language,95701,92.8,5.8,0.6,3.7,1.4,33.0,3.4
+JRN004,Caller authentication,88786,91.8,6.8,0.6,0.6,1.4,51.0,3.4
+JRN013,Greeting and language,74889,93.0,5.7,0.7,3.6,1.3,36.0,3.4
+JRN019,Caller authentication,77376,91.9,6.9,0.7,0.6,1.2,52.0,3.4
+JRN025,Greeting and language,92960,92.9,5.8,0.8,3.5,1.3,35.0,3.4
+JRN025,Caller authentication,86371,91.6,6.9,0.7,0.4,1.5,53.0,3.4
+JRN030,Greeting and language,95460,92.9,5.8,0.7,3.9,1.3,33.0,3.4
+JRN034,Greeting and language,37383,92.8,5.8,0.7,3.6,1.4,34.0,3.4
+JRN036,Greeting and language,21023,93.0,5.7,0.7,3.9,1.4,32.0,3.4
+JRN007,Caller authentication,48897,91.9,6.8,0.6,0.5,1.3,53.0,3.3
+JRN013,Caller authentication,69634,91.9,6.8,0.7,0.5,1.3,53.0,3.3
+JRN024,Greeting and language,29268,93.0,5.5,0.6,3.8,1.5,33.0,3.3
+JRN034,Caller authentication,34692,91.9,6.8,0.6,0.5,1.3,50.0,3.3
+JRN037,Greeting and language,22828,93.4,5.5,0.8,3.7,1.2,38.0,3.3
+JRN040,Caller authentication,44991,91.8,6.9,0.6,0.4,1.3,55.0,3.3
+JRN019,Greeting and language,82887,93.4,5.4,0.7,3.8,1.3,33.0,3.2
+JRN032,Greeting and language,41498,95.5,3.2,0.7,4.1,1.3,31.0,2.4
+JRN021,Caller authentication,88647,94.3,4.2,0.7,0.5,1.5,52.0,2.3
+JRN028,Greeting and language,81573,95.7,3.0,0.8,3.8,1.3,31.0,2.3
+JRN031,Greeting and language,15303,95.3,3.2,0.6,3.5,1.5,32.0,2.3
+JRN035,Caller authentication,36399,94.5,4.2,0.8,0.3,1.3,52.0,2.3
+JRN039,Caller authentication,12840,94.3,4.1,0.7,0.4,1.6,51.0,2.3
+JRN006,Greeting and language,38676,95.5,2.9,0.7,3.6,1.5,35.0,2.2
+JRN009,Caller authentication,54401,94.5,4.0,0.7,0.4,1.5,53.0,2.2
+JRN010,Greeting and language,47140,95.7,3.0,0.8,3.7,1.3,35.0,2.2
+JRN012,Caller authentication,43824,94.5,4.2,0.6,0.4,1.2,53.0,2.2
+JRN015,Greeting and language,22921,95.9,2.9,0.7,3.7,1.2,33.0,2.2
+JRN015,Caller authentication,21978,94.7,4.2,0.6,0.4,1.1,55.0,2.2
+JRN017,Greeting and language,71000,95.8,2.8,0.7,3.7,1.4,34.0,2.2
+JRN018,Greeting and language,43036,95.6,2.8,0.8,3.6,1.6,34.0,2.2
+JRN018,Caller authentication,41124,94.7,4.2,0.6,0.6,1.2,52.0,2.2
+JRN021,Greeting and language,92528,95.8,3.0,0.7,3.6,1.2,32.0,2.2
+JRN023,Caller authentication,27767,94.5,4.0,0.7,0.5,1.4,53.0,2.2
+JRN027,Caller authentication,93309,94.6,4.0,0.7,0.4,1.4,52.0,2.2
+JRN033,Caller authentication,17798,94.6,4.1,0.6,0.5,1.3,53.0,2.2
+JRN035,Greeting and language,38049,95.7,2.7,0.7,3.7,1.6,34.0,2.2
+JRN039,Greeting and language,13409,95.8,2.9,0.5,3.8,1.3,39.0,2.2
+JRN041,Caller authentication,45085,94.6,4.0,0.6,0.4,1.4,49.0,2.2
+JRN002,Greeting and language,27724,95.8,2.8,0.8,3.5,1.4,36.0,2.1
+JRN006,Caller authentication,36951,94.7,3.8,0.7,0.5,1.5,50.0,2.1
+JRN008,Greeting and language,56603,96.0,2.7,0.6,3.7,1.3,33.0,2.1
+JRN011,Greeting and language,66582,96.0,2.8,0.7,3.5,1.3,34.0,2.1
+JRN011,Caller authentication,63895,94.8,3.9,0.7,0.4,1.3,51.0,2.1
+JRN012,Greeting and language,45637,96.0,2.5,0.6,3.9,1.5,35.0,2.1
+JRN014,Greeting and language,84271,95.9,2.7,0.7,3.7,1.4,35.0,2.1
+JRN016,Greeting and language,39479,95.8,2.7,0.7,3.6,1.4,34.0,2.1
+JRN022,Greeting and language,72757,96.0,2.8,0.7,3.6,1.3,34.0,2.1
+JRN023,Greeting and language,28990,95.8,2.7,0.6,3.6,1.6,35.0,2.1
+JRN026,Greeting and language,84634,95.8,2.7,0.7,3.7,1.6,34.0,2.1
+JRN026,Caller authentication,81045,94.8,3.8,0.7,0.4,1.4,54.0,2.1
+JRN027,Greeting and language,97283,95.9,2.8,0.7,3.6,1.2,32.0,2.1
+JRN005,Greeting and language,17357,96.3,2.4,0.6,3.8,1.2,35.0,2.0
+JRN005,Caller authentication,16717,94.8,3.6,0.6,0.4,1.6,52.0,2.0
+JRN009,Greeting and language,56641,96.0,2.7,0.6,3.6,1.3,32.0,2.0
+JRN020,Greeting and language,26512,96.3,2.5,0.7,3.9,1.1,35.0,2.0
+JRN020,Caller authentication,25537,95.0,3.7,0.6,0.4,1.3,52.0,2.0
+JRN029,Greeting and language,48737,96.1,2.6,0.7,3.6,1.3,34.0,2.0
+JRN029,Caller authentication,46853,95.0,3.6,0.7,0.5,1.4,54.0,2.0
+JRN032,Caller authentication,39644,95.1,3.7,0.7,0.4,1.2,55.0,2.0
+JRN033,Greeting and language,18462,96.4,2.5,0.7,3.6,1.1,30.0,2.0
+JRN038,Greeting and language,38641,96.3,2.5,0.6,3.7,1.2,36.0,2.0
+JRN041,Greeting and language,46842,96.2,2.6,0.7,3.6,1.1,34.0,2.0

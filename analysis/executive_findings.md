@@ -1,15 +1,16 @@
 # Executive Findings
 
-## What I analyzed
+## What I Analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for IVR caller behavior analytics, customer journey optimization, Tableau reporting, and CX design recommendations.
+I modeled 2,537,204 synthetic IVR calls across 42 caller journeys, then joined daily performance, path-step friction, stakeholder requests, and action candidates into one reporting and recommendation workflow.
 
 ## Findings
 
-- The highest-priority caller journey is CAL022 with a priority score of 98.39.
-- The top queue combines 49.9 average risk with 81.0 quality score and $858,979 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- The highest-priority journey is Agent callback flow 2 with a priority score of 74.6.
+- The top ten opportunities represent $8,997,271 in annualized transfer-cost avoidance if containment gaps are closed.
+- The aggregate containment rate is 49.0%, while 19.7% of calls still transfer to agents.
+- The leading diagnostic signal is Intent capture in JRN037, with a friction index of 7.7.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which caller journey risks need action, validation, or monitoring.
+Use the priority queue to select the first journey for redesign, then use the flow diagnostics to decide whether the fix belongs in prompts, authentication, integrations, routing, or reporting definitions.

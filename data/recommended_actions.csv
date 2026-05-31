@@ -1,221 +1,169 @@
-action_id,entity_id,action_type,effort_hours,expected_lift_pct,status
-ACT0001,CAL030,escalate,15,2.8,Proposed
-ACT0002,CAL001,validate,21,8.9,Proposed
-ACT0003,CAL036,validate,11,21.9,In Review
-ACT0004,CAL013,validate,29,3.2,Ready
-ACT0005,CAL027,document,33,2.4,Proposed
-ACT0006,CAL025,prioritize,31,14.8,Complete
-ACT0007,CAL017,escalate,5,11.7,In Review
-ACT0008,CAL016,monitor,30,8.0,Ready
-ACT0009,CAL018,automate,18,10.1,Ready
-ACT0010,CAL010,validate,39,3.5,In Review
-ACT0011,CAL030,automate,43,11.6,Proposed
-ACT0012,CAL017,automate,2,18.2,Proposed
-ACT0013,CAL031,validate,3,17.6,Ready
-ACT0014,CAL007,validate,21,20.5,Complete
-ACT0015,CAL019,prioritize,39,14.4,Complete
-ACT0016,CAL003,automate,9,13.8,Proposed
-ACT0017,CAL030,prioritize,36,17.9,Complete
-ACT0018,CAL014,document,36,3.0,Proposed
-ACT0019,CAL010,document,12,10.3,Ready
-ACT0020,CAL032,automate,25,19.2,Complete
-ACT0021,CAL016,validate,15,23.4,Proposed
-ACT0022,CAL009,validate,17,10.1,Proposed
-ACT0023,CAL012,escalate,40,9.4,Ready
-ACT0024,CAL014,document,30,10.8,Complete
-ACT0025,CAL024,monitor,30,9.3,Proposed
-ACT0026,CAL032,escalate,11,14.6,Complete
-ACT0027,CAL026,document,17,23.2,Proposed
-ACT0028,CAL002,automate,18,9.7,In Review
-ACT0029,CAL023,document,27,14.4,In Review
-ACT0030,CAL003,escalate,7,23.6,In Review
-ACT0031,CAL031,monitor,33,7.0,Proposed
-ACT0032,CAL014,monitor,39,3.3,Ready
-ACT0033,CAL014,validate,30,20.6,Ready
-ACT0034,CAL035,automate,10,21.0,Ready
-ACT0035,CAL001,monitor,32,17.1,Proposed
-ACT0036,CAL035,validate,8,6.8,Ready
-ACT0037,CAL016,monitor,28,10.5,Complete
-ACT0038,CAL020,document,6,23.3,Ready
-ACT0039,CAL001,monitor,28,4.0,Proposed
-ACT0040,CAL028,escalate,27,11.0,Proposed
-ACT0041,CAL024,escalate,19,11.1,Ready
-ACT0042,CAL028,document,43,19.2,Ready
-ACT0043,CAL013,validate,38,9.0,Proposed
-ACT0044,CAL022,automate,15,4.5,Complete
-ACT0045,CAL033,automate,27,4.2,In Review
-ACT0046,CAL010,document,16,7.1,Complete
-ACT0047,CAL011,automate,19,23.5,Proposed
-ACT0048,CAL003,prioritize,14,2.9,Ready
-ACT0049,CAL013,automate,21,9.2,In Review
-ACT0050,CAL024,validate,20,20.7,Complete
-ACT0051,CAL025,prioritize,34,23.8,In Review
-ACT0052,CAL024,escalate,17,22.2,Proposed
-ACT0053,CAL013,prioritize,4,7.9,Complete
-ACT0054,CAL020,automate,9,17.7,Ready
-ACT0055,CAL031,escalate,36,23.8,Complete
-ACT0056,CAL022,prioritize,29,4.0,Complete
-ACT0057,CAL032,document,7,6.6,Proposed
-ACT0058,CAL023,monitor,12,15.1,Ready
-ACT0059,CAL014,prioritize,22,9.9,In Review
-ACT0060,CAL035,validate,5,16.2,Ready
-ACT0061,CAL004,document,15,4.2,Proposed
-ACT0062,CAL025,prioritize,15,5.7,Ready
-ACT0063,CAL025,document,41,6.9,Proposed
-ACT0064,CAL031,automate,3,21.1,Proposed
-ACT0065,CAL028,validate,12,18.8,Proposed
-ACT0066,CAL019,validate,20,6.9,Proposed
-ACT0067,CAL012,validate,3,19.4,Complete
-ACT0068,CAL021,automate,44,7.1,In Review
-ACT0069,CAL020,document,33,18.1,In Review
-ACT0070,CAL032,validate,27,6.5,Complete
-ACT0071,CAL020,escalate,2,18.5,Proposed
-ACT0072,CAL021,validate,13,8.7,Ready
-ACT0073,CAL021,validate,26,4.7,In Review
-ACT0074,CAL026,validate,33,14.3,Ready
-ACT0075,CAL035,automate,31,17.0,Proposed
-ACT0076,CAL007,escalate,33,5.4,Proposed
-ACT0077,CAL015,prioritize,3,4.1,Proposed
-ACT0078,CAL029,document,11,16.8,In Review
-ACT0079,CAL021,monitor,33,17.3,Complete
-ACT0080,CAL012,escalate,14,7.3,Complete
-ACT0081,CAL002,automate,8,17.7,Complete
-ACT0082,CAL016,monitor,18,10.2,Proposed
-ACT0083,CAL008,escalate,28,18.6,Proposed
-ACT0084,CAL010,monitor,25,20.7,Complete
-ACT0085,CAL013,monitor,5,8.9,Ready
-ACT0086,CAL021,automate,22,9.8,Proposed
-ACT0087,CAL030,prioritize,27,9.4,Ready
-ACT0088,CAL021,prioritize,40,13.0,Ready
-ACT0089,CAL026,automate,16,17.4,Complete
-ACT0090,CAL020,validate,14,22.6,In Review
-ACT0091,CAL005,document,26,12.4,Proposed
-ACT0092,CAL030,document,39,23.2,In Review
-ACT0093,CAL001,escalate,31,17.5,In Review
-ACT0094,CAL016,validate,17,23.4,Proposed
-ACT0095,CAL024,escalate,32,8.3,Complete
-ACT0096,CAL015,escalate,30,19.0,Proposed
-ACT0097,CAL029,monitor,37,2.3,In Review
-ACT0098,CAL001,validate,10,22.9,Ready
-ACT0099,CAL013,prioritize,12,13.5,Ready
-ACT0100,CAL018,validate,2,10.3,Proposed
-ACT0101,CAL005,validate,16,8.4,Complete
-ACT0102,CAL036,document,13,12.6,Proposed
-ACT0103,CAL031,document,40,18.7,Complete
-ACT0104,CAL029,document,36,9.1,Proposed
-ACT0105,CAL008,monitor,17,22.0,Ready
-ACT0106,CAL027,monitor,42,18.8,Proposed
-ACT0107,CAL017,escalate,33,8.5,In Review
-ACT0108,CAL014,document,27,4.1,Ready
-ACT0109,CAL006,document,16,22.5,In Review
-ACT0110,CAL025,validate,30,17.9,Complete
-ACT0111,CAL019,document,10,20.6,Proposed
-ACT0112,CAL017,escalate,5,13.5,Proposed
-ACT0113,CAL006,escalate,10,4.3,Complete
-ACT0114,CAL012,prioritize,33,21.9,Complete
-ACT0115,CAL003,document,14,13.6,Complete
-ACT0116,CAL017,validate,29,21.7,Complete
-ACT0117,CAL007,prioritize,11,23.5,In Review
-ACT0118,CAL018,automate,7,9.5,Ready
-ACT0119,CAL034,prioritize,18,21.9,Ready
-ACT0120,CAL008,prioritize,39,5.4,In Review
-ACT0121,CAL031,document,26,12.5,Proposed
-ACT0122,CAL031,monitor,24,22.3,Complete
-ACT0123,CAL027,validate,23,22.0,Proposed
-ACT0124,CAL017,monitor,6,20.2,Ready
-ACT0125,CAL003,monitor,31,12.8,Ready
-ACT0126,CAL018,prioritize,39,3.1,Proposed
-ACT0127,CAL002,document,8,23.8,In Review
-ACT0128,CAL032,escalate,17,14.7,In Review
-ACT0129,CAL024,document,35,9.1,Complete
-ACT0130,CAL030,document,12,14.3,In Review
-ACT0131,CAL023,automate,33,19.9,Proposed
-ACT0132,CAL011,escalate,38,13.3,Complete
-ACT0133,CAL036,automate,21,3.3,Ready
-ACT0134,CAL017,automate,9,6.4,Ready
-ACT0135,CAL035,automate,21,9.4,Proposed
-ACT0136,CAL031,validate,21,16.7,Ready
-ACT0137,CAL017,monitor,16,6.2,Complete
-ACT0138,CAL005,prioritize,29,6.4,Complete
-ACT0139,CAL010,document,40,3.8,Complete
-ACT0140,CAL007,prioritize,29,7.6,In Review
-ACT0141,CAL008,automate,36,4.5,Proposed
-ACT0142,CAL027,automate,39,16.1,In Review
-ACT0143,CAL004,escalate,6,22.5,In Review
-ACT0144,CAL005,document,13,15.2,Proposed
-ACT0145,CAL015,automate,23,7.3,In Review
-ACT0146,CAL002,escalate,22,16.9,Ready
-ACT0147,CAL024,validate,20,20.3,In Review
-ACT0148,CAL007,escalate,44,22.9,Ready
-ACT0149,CAL008,monitor,12,21.5,Ready
-ACT0150,CAL033,prioritize,40,22.1,In Review
-ACT0151,CAL005,automate,35,4.5,Proposed
-ACT0152,CAL036,automate,8,11.1,Proposed
-ACT0153,CAL034,prioritize,8,6.8,Ready
-ACT0154,CAL014,automate,16,9.7,Proposed
-ACT0155,CAL023,prioritize,35,10.7,Proposed
-ACT0156,CAL016,validate,16,20.6,Ready
-ACT0157,CAL006,automate,25,20.8,In Review
-ACT0158,CAL030,monitor,4,18.9,Ready
-ACT0159,CAL035,automate,14,8.1,Ready
-ACT0160,CAL007,validate,11,11.0,In Review
-ACT0161,CAL003,prioritize,4,22.9,Ready
-ACT0162,CAL020,prioritize,8,13.4,Ready
-ACT0163,CAL029,escalate,3,7.7,Proposed
-ACT0164,CAL030,prioritize,7,3.6,Proposed
-ACT0165,CAL024,escalate,43,19.7,Ready
-ACT0166,CAL014,automate,19,23.2,Proposed
-ACT0167,CAL011,automate,10,15.2,Ready
-ACT0168,CAL024,automate,28,9.9,Proposed
-ACT0169,CAL008,validate,7,11.1,Ready
-ACT0170,CAL028,automate,6,5.2,In Review
-ACT0171,CAL010,escalate,38,3.9,Ready
-ACT0172,CAL010,document,42,2.4,In Review
-ACT0173,CAL030,prioritize,8,11.2,Proposed
-ACT0174,CAL023,automate,23,10.6,Ready
-ACT0175,CAL003,validate,31,20.8,Proposed
-ACT0176,CAL033,automate,6,13.5,Complete
-ACT0177,CAL035,validate,24,10.5,Complete
-ACT0178,CAL019,automate,11,21.6,Proposed
-ACT0179,CAL012,automate,43,20.0,Ready
-ACT0180,CAL024,document,39,12.7,Ready
-ACT0181,CAL020,escalate,31,11.9,Complete
-ACT0182,CAL029,prioritize,31,13.7,Proposed
-ACT0183,CAL027,automate,37,8.1,Complete
-ACT0184,CAL030,validate,20,12.3,Complete
-ACT0185,CAL018,escalate,24,15.8,Ready
-ACT0186,CAL023,validate,19,12.1,Proposed
-ACT0187,CAL031,automate,31,19.9,In Review
-ACT0188,CAL005,automate,32,17.3,Complete
-ACT0189,CAL013,automate,37,11.9,In Review
-ACT0190,CAL011,prioritize,22,6.2,Complete
-ACT0191,CAL014,monitor,6,13.1,Proposed
-ACT0192,CAL008,document,5,18.0,Ready
-ACT0193,CAL005,document,6,16.3,In Review
-ACT0194,CAL031,monitor,10,7.3,Proposed
-ACT0195,CAL020,monitor,36,3.7,Complete
-ACT0196,CAL007,validate,14,3.6,Complete
-ACT0197,CAL013,prioritize,30,3.4,Ready
-ACT0198,CAL006,escalate,5,14.5,In Review
-ACT0199,CAL021,automate,9,14.3,In Review
-ACT0200,CAL027,automate,37,7.5,In Review
-ACT0201,CAL008,document,20,2.7,Proposed
-ACT0202,CAL009,monitor,39,8.9,In Review
-ACT0203,CAL001,validate,41,13.2,In Review
-ACT0204,CAL006,monitor,5,21.0,Proposed
-ACT0205,CAL015,prioritize,16,21.3,Ready
-ACT0206,CAL036,escalate,30,16.1,In Review
-ACT0207,CAL003,document,9,22.1,Ready
-ACT0208,CAL019,monitor,21,16.4,Proposed
-ACT0209,CAL015,escalate,16,8.8,Ready
-ACT0210,CAL027,validate,19,17.2,In Review
-ACT0211,CAL020,monitor,44,8.0,Ready
-ACT0212,CAL012,automate,23,14.4,Proposed
-ACT0213,CAL036,validate,42,20.2,Complete
-ACT0214,CAL018,prioritize,17,20.6,Proposed
-ACT0215,CAL015,escalate,4,15.2,Proposed
-ACT0216,CAL009,automate,26,9.2,Proposed
-ACT0217,CAL005,escalate,10,11.2,Ready
-ACT0218,CAL026,automate,30,22.8,Ready
-ACT0219,CAL033,escalate,9,5.8,Complete
-ACT0220,CAL023,escalate,28,5.1,Complete
+action_id,journey_id,action_type,expected_containment_lift_pct,expected_transfer_reduction_pct,effort_hours,owner_team,status
+ACT0001,JRN001,prompt rewrite,1.5,2.5,20,Account Services,ready for review
+ACT0002,JRN006,routing rule update,4.0,3.0,6,Customer Care,needs SME input
+ACT0003,JRN011,authentication tuning,6.0,6.4,22,Member Care,queued for test
+ACT0004,JRN016,self-service content change,3.7,4.5,5,Service Desk,watch
+ACT0005,JRN021,metric definition cleanup,2.4,2.6,23,Member Care,ready for review
+ACT0006,JRN026,callback treatment test,6.7,2.8,24,Account Services,needs SME input
+ACT0007,JRN031,prompt rewrite,7.4,5.8,23,Customer Care,queued for test
+ACT0008,JRN036,routing rule update,8.5,6.4,37,Service Desk,watch
+ACT0009,JRN041,authentication tuning,5.9,3.8,30,Customer Care,ready for review
+ACT0010,JRN004,self-service content change,5.8,3.5,22,Scheduling,needs SME input
+ACT0011,JRN009,metric definition cleanup,7.6,3.6,25,Customer Care,queued for test
+ACT0012,JRN014,callback treatment test,1.5,2.9,28,Service Desk,watch
+ACT0013,JRN019,prompt rewrite,5.5,2.1,45,Account Services,ready for review
+ACT0014,JRN024,routing rule update,3.7,6.1,5,Inside Sales,needs SME input
+ACT0015,JRN029,authentication tuning,4.3,1.2,10,Account Services,queued for test
+ACT0016,JRN034,self-service content change,7.1,3.9,21,Customer Care,watch
+ACT0017,JRN039,metric definition cleanup,7.9,2.5,10,Member Care,ready for review
+ACT0018,JRN002,callback treatment test,7.2,4.0,11,Service Desk,needs SME input
+ACT0019,JRN007,prompt rewrite,1.5,3.5,32,Member Care,queued for test
+ACT0020,JRN012,routing rule update,8.5,5.4,11,Account Services,watch
+ACT0021,JRN017,authentication tuning,7.6,4.3,22,Customer Care,ready for review
+ACT0022,JRN022,self-service content change,6.8,1.5,21,Service Desk,needs SME input
+ACT0023,JRN027,metric definition cleanup,6.0,0.9,35,Customer Care,queued for test
+ACT0024,JRN032,callback treatment test,3.1,5.8,22,Scheduling,watch
+ACT0025,JRN037,prompt rewrite,4.0,0.9,35,Customer Care,ready for review
+ACT0026,JRN042,routing rule update,4.3,5.5,31,Service Desk,needs SME input
+ACT0027,JRN005,authentication tuning,3.8,4.2,16,Account Services,queued for test
+ACT0028,JRN010,self-service content change,8.5,1.0,32,Inside Sales,watch
+ACT0029,JRN015,metric definition cleanup,4.2,4.1,13,Account Services,ready for review
+ACT0030,JRN020,callback treatment test,7.8,5.0,20,Customer Care,needs SME input
+ACT0031,JRN025,prompt rewrite,6.6,1.8,24,Member Care,queued for test
+ACT0032,JRN030,routing rule update,3.1,0.9,26,Service Desk,watch
+ACT0033,JRN035,authentication tuning,4.2,5.7,17,Member Care,ready for review
+ACT0034,JRN040,self-service content change,7.5,5.6,11,Account Services,needs SME input
+ACT0035,JRN003,metric definition cleanup,4.8,2.2,30,Customer Care,queued for test
+ACT0036,JRN008,callback treatment test,7.0,2.7,9,Service Desk,watch
+ACT0037,JRN013,prompt rewrite,1.8,5.5,14,Customer Care,ready for review
+ACT0038,JRN018,routing rule update,8.7,1.6,7,Scheduling,needs SME input
+ACT0039,JRN023,authentication tuning,1.6,1.4,27,Customer Care,queued for test
+ACT0040,JRN028,self-service content change,7.4,2.0,12,Service Desk,watch
+ACT0041,JRN033,metric definition cleanup,5.4,5.1,13,Account Services,ready for review
+ACT0042,JRN038,callback treatment test,3.2,4.8,4,Inside Sales,needs SME input
+ACT0043,JRN001,prompt rewrite,2.2,1.6,20,Account Services,queued for test
+ACT0044,JRN006,routing rule update,3.2,4.1,29,Customer Care,watch
+ACT0045,JRN011,authentication tuning,2.5,4.7,22,Member Care,ready for review
+ACT0046,JRN016,self-service content change,7.1,1.1,27,Service Desk,needs SME input
+ACT0047,JRN021,metric definition cleanup,1.4,6.1,25,Member Care,queued for test
+ACT0048,JRN026,callback treatment test,2.5,4.5,31,Account Services,watch
+ACT0049,JRN031,prompt rewrite,2.4,4.4,17,Customer Care,ready for review
+ACT0050,JRN036,routing rule update,7.6,4.0,15,Service Desk,needs SME input
+ACT0051,JRN041,authentication tuning,6.6,1.7,22,Customer Care,queued for test
+ACT0052,JRN004,self-service content change,3.7,2.9,28,Scheduling,watch
+ACT0053,JRN009,metric definition cleanup,6.0,4.1,12,Customer Care,ready for review
+ACT0054,JRN014,callback treatment test,8.0,4.7,22,Service Desk,needs SME input
+ACT0055,JRN019,prompt rewrite,3.3,2.4,20,Account Services,queued for test
+ACT0056,JRN024,routing rule update,8.0,3.8,5,Inside Sales,watch
+ACT0057,JRN029,authentication tuning,8.5,3.4,33,Account Services,ready for review
+ACT0058,JRN034,self-service content change,8.3,2.0,8,Customer Care,needs SME input
+ACT0059,JRN039,metric definition cleanup,1.7,0.8,20,Member Care,queued for test
+ACT0060,JRN002,callback treatment test,4.7,4.1,33,Service Desk,watch
+ACT0061,JRN007,prompt rewrite,4.2,1.1,27,Member Care,ready for review
+ACT0062,JRN012,routing rule update,4.9,1.9,17,Account Services,needs SME input
+ACT0063,JRN017,authentication tuning,2.1,5.5,31,Customer Care,queued for test
+ACT0064,JRN022,self-service content change,2.4,1.2,20,Service Desk,watch
+ACT0065,JRN027,metric definition cleanup,6.9,1.8,27,Customer Care,ready for review
+ACT0066,JRN032,callback treatment test,2.3,2.6,18,Scheduling,needs SME input
+ACT0067,JRN037,prompt rewrite,5.7,3.3,12,Customer Care,queued for test
+ACT0068,JRN042,routing rule update,4.7,3.8,19,Service Desk,watch
+ACT0069,JRN005,authentication tuning,6.8,3.6,19,Account Services,ready for review
+ACT0070,JRN010,self-service content change,1.7,3.2,16,Inside Sales,needs SME input
+ACT0071,JRN015,metric definition cleanup,5.7,6.1,36,Account Services,queued for test
+ACT0072,JRN020,callback treatment test,7.7,1.9,46,Customer Care,watch
+ACT0073,JRN025,prompt rewrite,6.7,6.0,31,Member Care,ready for review
+ACT0074,JRN030,routing rule update,2.5,1.7,27,Service Desk,needs SME input
+ACT0075,JRN035,authentication tuning,3.8,3.5,30,Member Care,queued for test
+ACT0076,JRN040,self-service content change,1.4,4.1,21,Account Services,watch
+ACT0077,JRN003,metric definition cleanup,6.6,1.0,36,Customer Care,ready for review
+ACT0078,JRN008,callback treatment test,6.7,1.3,13,Service Desk,needs SME input
+ACT0079,JRN013,prompt rewrite,3.3,6.0,28,Customer Care,queued for test
+ACT0080,JRN018,routing rule update,2.6,6.3,25,Scheduling,watch
+ACT0081,JRN023,authentication tuning,3.1,0.9,15,Customer Care,ready for review
+ACT0082,JRN028,self-service content change,6.3,4.4,29,Service Desk,needs SME input
+ACT0083,JRN033,metric definition cleanup,2.9,4.7,16,Account Services,queued for test
+ACT0084,JRN038,callback treatment test,3.8,2.4,4,Inside Sales,watch
+ACT0085,JRN001,prompt rewrite,8.1,1.9,17,Account Services,ready for review
+ACT0086,JRN006,routing rule update,6.1,3.4,10,Customer Care,needs SME input
+ACT0087,JRN011,authentication tuning,2.1,3.9,37,Member Care,queued for test
+ACT0088,JRN016,self-service content change,7.4,5.8,13,Service Desk,watch
+ACT0089,JRN021,metric definition cleanup,7.8,3.6,24,Member Care,ready for review
+ACT0090,JRN026,callback treatment test,8.4,2.8,32,Account Services,needs SME input
+ACT0091,JRN031,prompt rewrite,5.9,4.2,20,Customer Care,queued for test
+ACT0092,JRN036,routing rule update,3.8,5.1,5,Service Desk,watch
+ACT0093,JRN041,authentication tuning,5.6,3.5,21,Customer Care,ready for review
+ACT0094,JRN004,self-service content change,5.5,1.1,13,Scheduling,needs SME input
+ACT0095,JRN009,metric definition cleanup,6.5,3.5,28,Customer Care,queued for test
+ACT0096,JRN014,callback treatment test,2.9,4.9,37,Service Desk,watch
+ACT0097,JRN019,prompt rewrite,6.4,3.9,32,Account Services,ready for review
+ACT0098,JRN024,routing rule update,7.8,1.2,22,Inside Sales,needs SME input
+ACT0099,JRN029,authentication tuning,4.5,2.5,26,Account Services,queued for test
+ACT0100,JRN034,self-service content change,6.4,2.4,12,Customer Care,watch
+ACT0101,JRN039,metric definition cleanup,6.7,4.3,22,Member Care,ready for review
+ACT0102,JRN002,callback treatment test,3.2,2.2,16,Service Desk,needs SME input
+ACT0103,JRN007,prompt rewrite,4.0,1.0,10,Member Care,queued for test
+ACT0104,JRN012,routing rule update,6.0,2.9,7,Account Services,watch
+ACT0105,JRN017,authentication tuning,2.2,6.1,27,Customer Care,ready for review
+ACT0106,JRN022,self-service content change,8.3,0.8,13,Service Desk,needs SME input
+ACT0107,JRN027,metric definition cleanup,2.5,2.9,27,Customer Care,queued for test
+ACT0108,JRN032,callback treatment test,7.3,4.5,9,Scheduling,watch
+ACT0109,JRN037,prompt rewrite,3.2,5.0,10,Customer Care,ready for review
+ACT0110,JRN042,routing rule update,1.7,5.0,10,Service Desk,needs SME input
+ACT0111,JRN005,authentication tuning,4.0,2.5,21,Account Services,queued for test
+ACT0112,JRN010,self-service content change,1.7,3.2,16,Inside Sales,watch
+ACT0113,JRN015,metric definition cleanup,4.3,0.9,10,Account Services,ready for review
+ACT0114,JRN020,callback treatment test,6.1,4.0,28,Customer Care,needs SME input
+ACT0115,JRN025,prompt rewrite,3.2,3.1,29,Member Care,queued for test
+ACT0116,JRN030,routing rule update,4.9,2.2,24,Service Desk,watch
+ACT0117,JRN035,authentication tuning,4.4,5.5,20,Member Care,ready for review
+ACT0118,JRN040,self-service content change,3.7,1.9,39,Account Services,needs SME input
+ACT0119,JRN003,metric definition cleanup,6.6,5.6,29,Customer Care,queued for test
+ACT0120,JRN008,callback treatment test,6.8,1.6,23,Service Desk,watch
+ACT0121,JRN013,prompt rewrite,4.3,2.5,46,Customer Care,ready for review
+ACT0122,JRN018,routing rule update,1.6,4.5,33,Scheduling,needs SME input
+ACT0123,JRN023,authentication tuning,8.0,3.5,23,Customer Care,queued for test
+ACT0124,JRN028,self-service content change,3.8,5.8,5,Service Desk,watch
+ACT0125,JRN033,metric definition cleanup,6.6,4.2,23,Account Services,ready for review
+ACT0126,JRN038,callback treatment test,3.7,5.5,26,Inside Sales,needs SME input
+ACT0127,JRN001,prompt rewrite,4.3,4.3,22,Account Services,queued for test
+ACT0128,JRN006,routing rule update,8.0,2.8,41,Customer Care,watch
+ACT0129,JRN011,authentication tuning,6.7,1.8,36,Member Care,ready for review
+ACT0130,JRN016,self-service content change,8.7,1.7,17,Service Desk,needs SME input
+ACT0131,JRN021,metric definition cleanup,7.7,2.4,12,Member Care,queued for test
+ACT0132,JRN026,callback treatment test,5.4,1.1,28,Account Services,watch
+ACT0133,JRN031,prompt rewrite,4.5,2.4,15,Customer Care,ready for review
+ACT0134,JRN036,routing rule update,5.0,4.3,15,Service Desk,needs SME input
+ACT0135,JRN041,authentication tuning,7.8,4.9,46,Customer Care,queued for test
+ACT0136,JRN004,self-service content change,4.7,1.2,27,Scheduling,watch
+ACT0137,JRN009,metric definition cleanup,1.5,1.6,24,Customer Care,ready for review
+ACT0138,JRN014,callback treatment test,8.8,6.2,23,Service Desk,needs SME input
+ACT0139,JRN019,prompt rewrite,5.2,4.4,30,Account Services,queued for test
+ACT0140,JRN024,routing rule update,8.4,1.4,22,Inside Sales,watch
+ACT0141,JRN029,authentication tuning,6.8,4.5,7,Account Services,ready for review
+ACT0142,JRN034,self-service content change,1.4,2.2,23,Customer Care,needs SME input
+ACT0143,JRN039,metric definition cleanup,1.7,4.8,44,Member Care,queued for test
+ACT0144,JRN002,callback treatment test,4.5,4.7,29,Service Desk,watch
+ACT0145,JRN007,prompt rewrite,6.4,5.9,20,Member Care,ready for review
+ACT0146,JRN012,routing rule update,2.5,1.0,5,Account Services,needs SME input
+ACT0147,JRN017,authentication tuning,5.5,3.1,25,Customer Care,queued for test
+ACT0148,JRN022,self-service content change,1.6,2.3,35,Service Desk,watch
+ACT0149,JRN027,metric definition cleanup,2.2,5.5,24,Customer Care,ready for review
+ACT0150,JRN032,callback treatment test,6.4,2.0,22,Scheduling,needs SME input
+ACT0151,JRN037,prompt rewrite,1.4,2.0,12,Customer Care,queued for test
+ACT0152,JRN042,routing rule update,4.0,3.7,34,Service Desk,watch
+ACT0153,JRN005,authentication tuning,4.7,0.9,18,Account Services,ready for review
+ACT0154,JRN010,self-service content change,4.5,6.2,30,Inside Sales,needs SME input
+ACT0155,JRN015,metric definition cleanup,3.9,3.7,25,Account Services,queued for test
+ACT0156,JRN020,callback treatment test,3.8,1.2,24,Customer Care,watch
+ACT0157,JRN025,prompt rewrite,4.3,4.8,17,Member Care,ready for review
+ACT0158,JRN030,routing rule update,8.3,3.5,20,Service Desk,needs SME input
+ACT0159,JRN035,authentication tuning,6.4,3.8,36,Member Care,queued for test
+ACT0160,JRN040,self-service content change,2.1,6.2,28,Account Services,watch
+ACT0161,JRN003,metric definition cleanup,2.1,1.8,34,Customer Care,ready for review
+ACT0162,JRN008,callback treatment test,6.7,5.5,28,Service Desk,needs SME input
+ACT0163,JRN013,prompt rewrite,3.1,2.3,22,Customer Care,queued for test
+ACT0164,JRN018,routing rule update,1.5,1.4,9,Scheduling,watch
+ACT0165,JRN023,authentication tuning,7.7,2.2,23,Customer Care,ready for review
+ACT0166,JRN028,self-service content change,6.5,3.6,21,Service Desk,needs SME input
+ACT0167,JRN033,metric definition cleanup,8.4,4.7,19,Account Services,queued for test
+ACT0168,JRN038,callback treatment test,5.0,3.6,25,Inside Sales,watch

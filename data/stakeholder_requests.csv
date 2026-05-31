@@ -1,0 +1,91 @@
+request_id,journey_id,stakeholder,ask_type,requested_output,sla_hours,business_question
+REQ0001,JRN001,CX design lead,Tableau drilldown,Tableau view,8,Where should we improve the payment arrangement flow first?
+REQ0002,JRN002,Contact center director,root-cause brief,Excel workbook,24,Where should we improve the outage status flow first?
+REQ0003,JRN003,BI product owner,root-cause brief,decision memo,48,Where should we improve the order status flow first?
+REQ0004,JRN004,IVR architect,Excel export,Tableau view,72,Where should we improve the appointment reschedule flow first?
+REQ0005,JRN005,Client operations sponsor,Tableau drilldown,Excel workbook,8,Where should we improve the password reset flow first?
+REQ0006,JRN006,CX design lead,journey map annotation,decision memo,24,Where should we improve the claims status flow first?
+REQ0007,JRN007,Contact center director,root-cause brief,Tableau view,48,Where should we improve the benefits eligibility flow first?
+REQ0008,JRN008,BI product owner,root-cause brief,Excel workbook,72,Where should we improve the technical troubleshooting flow first?
+REQ0009,JRN009,IVR architect,SQL validation,decision memo,8,Where should we improve the service cancellation flow first?
+REQ0010,JRN010,Client operations sponsor,Excel export,Tableau view,24,Where should we improve the new service quote flow first?
+REQ0011,JRN011,CX design lead,root-cause brief,Excel workbook,48,Where should we improve the prescription refill flow first?
+REQ0012,JRN012,Contact center director,Excel export,decision memo,72,Where should we improve the fraud alert review flow first?
+REQ0013,JRN013,BI product owner,journey map annotation,Tableau view,8,Where should we improve the document request flow first?
+REQ0014,JRN014,IVR architect,SQL validation,Excel workbook,24,Where should we improve the agent callback flow first?
+REQ0015,JRN015,Client operations sponsor,Excel export,decision memo,48,Where should we improve the payment arrangement flow first?
+REQ0016,JRN016,CX design lead,root-cause brief,Tableau view,72,Where should we improve the outage status flow first?
+REQ0017,JRN017,Contact center director,root-cause brief,Excel workbook,8,Where should we improve the order status flow first?
+REQ0018,JRN018,BI product owner,journey map annotation,decision memo,24,Where should we improve the appointment reschedule flow first?
+REQ0019,JRN019,IVR architect,SQL validation,Tableau view,48,Where should we improve the password reset flow first?
+REQ0020,JRN020,Client operations sponsor,Excel export,Excel workbook,72,Where should we improve the claims status flow first?
+REQ0021,JRN021,CX design lead,Tableau drilldown,decision memo,8,Where should we improve the benefits eligibility flow first?
+REQ0022,JRN022,Contact center director,root-cause brief,Tableau view,24,Where should we improve the technical troubleshooting flow first?
+REQ0023,JRN023,BI product owner,SQL validation,Excel workbook,48,Where should we improve the service cancellation flow first?
+REQ0024,JRN024,IVR architect,Tableau drilldown,decision memo,72,Where should we improve the new service quote flow first?
+REQ0025,JRN025,Client operations sponsor,Excel export,Tableau view,8,Where should we improve the prescription refill flow first?
+REQ0026,JRN026,CX design lead,journey map annotation,Excel workbook,24,Where should we improve the fraud alert review flow first?
+REQ0027,JRN027,Contact center director,Excel export,decision memo,48,Where should we improve the document request flow first?
+REQ0028,JRN028,BI product owner,root-cause brief,Tableau view,72,Where should we improve the agent callback flow first?
+REQ0029,JRN029,IVR architect,Excel export,Excel workbook,8,Where should we improve the payment arrangement flow first?
+REQ0030,JRN030,Client operations sponsor,Tableau drilldown,decision memo,24,Where should we improve the outage status flow first?
+REQ0031,JRN031,CX design lead,journey map annotation,Tableau view,48,Where should we improve the order status flow first?
+REQ0032,JRN032,Contact center director,journey map annotation,Excel workbook,72,Where should we improve the appointment reschedule flow first?
+REQ0033,JRN033,BI product owner,journey map annotation,decision memo,8,Where should we improve the password reset flow first?
+REQ0034,JRN034,IVR architect,Tableau drilldown,Tableau view,24,Where should we improve the claims status flow first?
+REQ0035,JRN035,Client operations sponsor,SQL validation,Excel workbook,48,Where should we improve the benefits eligibility flow first?
+REQ0036,JRN036,CX design lead,root-cause brief,decision memo,72,Where should we improve the technical troubleshooting flow first?
+REQ0037,JRN037,Contact center director,root-cause brief,Tableau view,8,Where should we improve the service cancellation flow first?
+REQ0038,JRN038,BI product owner,Tableau drilldown,Excel workbook,24,Where should we improve the new service quote flow first?
+REQ0039,JRN039,IVR architect,SQL validation,decision memo,48,Where should we improve the prescription refill flow first?
+REQ0040,JRN040,Client operations sponsor,Tableau drilldown,Tableau view,72,Where should we improve the fraud alert review flow first?
+REQ0041,JRN041,CX design lead,journey map annotation,Excel workbook,8,Where should we improve the document request flow first?
+REQ0042,JRN042,Contact center director,Excel export,decision memo,24,Where should we improve the agent callback flow first?
+REQ0043,JRN001,BI product owner,journey map annotation,Tableau view,48,Where should we improve the payment arrangement flow first?
+REQ0044,JRN002,IVR architect,SQL validation,Excel workbook,72,Where should we improve the outage status flow first?
+REQ0045,JRN003,Client operations sponsor,SQL validation,decision memo,8,Where should we improve the order status flow first?
+REQ0046,JRN004,CX design lead,journey map annotation,Tableau view,24,Where should we improve the appointment reschedule flow first?
+REQ0047,JRN005,Contact center director,journey map annotation,Excel workbook,48,Where should we improve the password reset flow first?
+REQ0048,JRN006,BI product owner,root-cause brief,decision memo,72,Where should we improve the claims status flow first?
+REQ0049,JRN007,IVR architect,SQL validation,Tableau view,8,Where should we improve the benefits eligibility flow first?
+REQ0050,JRN008,Client operations sponsor,SQL validation,Excel workbook,24,Where should we improve the technical troubleshooting flow first?
+REQ0051,JRN009,CX design lead,Tableau drilldown,decision memo,48,Where should we improve the service cancellation flow first?
+REQ0052,JRN010,Contact center director,SQL validation,Tableau view,72,Where should we improve the new service quote flow first?
+REQ0053,JRN011,BI product owner,root-cause brief,Excel workbook,8,Where should we improve the prescription refill flow first?
+REQ0054,JRN012,IVR architect,Excel export,decision memo,24,Where should we improve the fraud alert review flow first?
+REQ0055,JRN013,Client operations sponsor,root-cause brief,Tableau view,48,Where should we improve the document request flow first?
+REQ0056,JRN014,CX design lead,Excel export,Excel workbook,72,Where should we improve the agent callback flow first?
+REQ0057,JRN015,Contact center director,journey map annotation,decision memo,8,Where should we improve the payment arrangement flow first?
+REQ0058,JRN016,BI product owner,SQL validation,Tableau view,24,Where should we improve the outage status flow first?
+REQ0059,JRN017,IVR architect,SQL validation,Excel workbook,48,Where should we improve the order status flow first?
+REQ0060,JRN018,Client operations sponsor,Tableau drilldown,decision memo,72,Where should we improve the appointment reschedule flow first?
+REQ0061,JRN019,CX design lead,root-cause brief,Tableau view,8,Where should we improve the password reset flow first?
+REQ0062,JRN020,Contact center director,SQL validation,Excel workbook,24,Where should we improve the claims status flow first?
+REQ0063,JRN021,BI product owner,root-cause brief,decision memo,48,Where should we improve the benefits eligibility flow first?
+REQ0064,JRN022,IVR architect,SQL validation,Tableau view,72,Where should we improve the technical troubleshooting flow first?
+REQ0065,JRN023,Client operations sponsor,root-cause brief,Excel workbook,8,Where should we improve the service cancellation flow first?
+REQ0066,JRN024,CX design lead,Excel export,decision memo,24,Where should we improve the new service quote flow first?
+REQ0067,JRN025,Contact center director,root-cause brief,Tableau view,48,Where should we improve the prescription refill flow first?
+REQ0068,JRN026,BI product owner,SQL validation,Excel workbook,72,Where should we improve the fraud alert review flow first?
+REQ0069,JRN027,IVR architect,Excel export,decision memo,8,Where should we improve the document request flow first?
+REQ0070,JRN028,Client operations sponsor,Excel export,Tableau view,24,Where should we improve the agent callback flow first?
+REQ0071,JRN029,CX design lead,Tableau drilldown,Excel workbook,48,Where should we improve the payment arrangement flow first?
+REQ0072,JRN030,Contact center director,SQL validation,decision memo,72,Where should we improve the outage status flow first?
+REQ0073,JRN031,BI product owner,journey map annotation,Tableau view,8,Where should we improve the order status flow first?
+REQ0074,JRN032,IVR architect,Excel export,Excel workbook,24,Where should we improve the appointment reschedule flow first?
+REQ0075,JRN033,Client operations sponsor,SQL validation,decision memo,48,Where should we improve the password reset flow first?
+REQ0076,JRN034,CX design lead,Excel export,Tableau view,72,Where should we improve the claims status flow first?
+REQ0077,JRN035,Contact center director,journey map annotation,Excel workbook,8,Where should we improve the benefits eligibility flow first?
+REQ0078,JRN036,BI product owner,journey map annotation,decision memo,24,Where should we improve the technical troubleshooting flow first?
+REQ0079,JRN037,IVR architect,journey map annotation,Tableau view,48,Where should we improve the service cancellation flow first?
+REQ0080,JRN038,Client operations sponsor,Excel export,Excel workbook,72,Where should we improve the new service quote flow first?
+REQ0081,JRN039,CX design lead,Tableau drilldown,decision memo,8,Where should we improve the prescription refill flow first?
+REQ0082,JRN040,Contact center director,journey map annotation,Tableau view,24,Where should we improve the fraud alert review flow first?
+REQ0083,JRN041,BI product owner,journey map annotation,Excel workbook,48,Where should we improve the document request flow first?
+REQ0084,JRN042,IVR architect,Tableau drilldown,decision memo,72,Where should we improve the agent callback flow first?
+REQ0085,JRN001,Client operations sponsor,SQL validation,Tableau view,8,Where should we improve the payment arrangement flow first?
+REQ0086,JRN002,CX design lead,journey map annotation,Excel workbook,24,Where should we improve the outage status flow first?
+REQ0087,JRN003,Contact center director,root-cause brief,decision memo,48,Where should we improve the order status flow first?
+REQ0088,JRN004,BI product owner,journey map annotation,Tableau view,72,Where should we improve the appointment reschedule flow first?
+REQ0089,JRN005,IVR architect,Excel export,Excel workbook,8,Where should we improve the password reset flow first?
+REQ0090,JRN006,Client operations sponsor,Excel export,decision memo,24,Where should we improve the claims status flow first?
