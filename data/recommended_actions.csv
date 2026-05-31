@@ -1,0 +1,221 @@
+action_id,entity_id,action_type,effort_hours,expected_lift_pct,status
+ACT0001,CAL030,escalate,15,2.8,Proposed
+ACT0002,CAL001,validate,21,8.9,Proposed
+ACT0003,CAL036,validate,11,21.9,In Review
+ACT0004,CAL013,validate,29,3.2,Ready
+ACT0005,CAL027,document,33,2.4,Proposed
+ACT0006,CAL025,prioritize,31,14.8,Complete
+ACT0007,CAL017,escalate,5,11.7,In Review
+ACT0008,CAL016,monitor,30,8.0,Ready
+ACT0009,CAL018,automate,18,10.1,Ready
+ACT0010,CAL010,validate,39,3.5,In Review
+ACT0011,CAL030,automate,43,11.6,Proposed
+ACT0012,CAL017,automate,2,18.2,Proposed
+ACT0013,CAL031,validate,3,17.6,Ready
+ACT0014,CAL007,validate,21,20.5,Complete
+ACT0015,CAL019,prioritize,39,14.4,Complete
+ACT0016,CAL003,automate,9,13.8,Proposed
+ACT0017,CAL030,prioritize,36,17.9,Complete
+ACT0018,CAL014,document,36,3.0,Proposed
+ACT0019,CAL010,document,12,10.3,Ready
+ACT0020,CAL032,automate,25,19.2,Complete
+ACT0021,CAL016,validate,15,23.4,Proposed
+ACT0022,CAL009,validate,17,10.1,Proposed
+ACT0023,CAL012,escalate,40,9.4,Ready
+ACT0024,CAL014,document,30,10.8,Complete
+ACT0025,CAL024,monitor,30,9.3,Proposed
+ACT0026,CAL032,escalate,11,14.6,Complete
+ACT0027,CAL026,document,17,23.2,Proposed
+ACT0028,CAL002,automate,18,9.7,In Review
+ACT0029,CAL023,document,27,14.4,In Review
+ACT0030,CAL003,escalate,7,23.6,In Review
+ACT0031,CAL031,monitor,33,7.0,Proposed
+ACT0032,CAL014,monitor,39,3.3,Ready
+ACT0033,CAL014,validate,30,20.6,Ready
+ACT0034,CAL035,automate,10,21.0,Ready
+ACT0035,CAL001,monitor,32,17.1,Proposed
+ACT0036,CAL035,validate,8,6.8,Ready
+ACT0037,CAL016,monitor,28,10.5,Complete
+ACT0038,CAL020,document,6,23.3,Ready
+ACT0039,CAL001,monitor,28,4.0,Proposed
+ACT0040,CAL028,escalate,27,11.0,Proposed
+ACT0041,CAL024,escalate,19,11.1,Ready
+ACT0042,CAL028,document,43,19.2,Ready
+ACT0043,CAL013,validate,38,9.0,Proposed
+ACT0044,CAL022,automate,15,4.5,Complete
+ACT0045,CAL033,automate,27,4.2,In Review
+ACT0046,CAL010,document,16,7.1,Complete
+ACT0047,CAL011,automate,19,23.5,Proposed
+ACT0048,CAL003,prioritize,14,2.9,Ready
+ACT0049,CAL013,automate,21,9.2,In Review
+ACT0050,CAL024,validate,20,20.7,Complete
+ACT0051,CAL025,prioritize,34,23.8,In Review
+ACT0052,CAL024,escalate,17,22.2,Proposed
+ACT0053,CAL013,prioritize,4,7.9,Complete
+ACT0054,CAL020,automate,9,17.7,Ready
+ACT0055,CAL031,escalate,36,23.8,Complete
+ACT0056,CAL022,prioritize,29,4.0,Complete
+ACT0057,CAL032,document,7,6.6,Proposed
+ACT0058,CAL023,monitor,12,15.1,Ready
+ACT0059,CAL014,prioritize,22,9.9,In Review
+ACT0060,CAL035,validate,5,16.2,Ready
+ACT0061,CAL004,document,15,4.2,Proposed
+ACT0062,CAL025,prioritize,15,5.7,Ready
+ACT0063,CAL025,document,41,6.9,Proposed
+ACT0064,CAL031,automate,3,21.1,Proposed
+ACT0065,CAL028,validate,12,18.8,Proposed
+ACT0066,CAL019,validate,20,6.9,Proposed
+ACT0067,CAL012,validate,3,19.4,Complete
+ACT0068,CAL021,automate,44,7.1,In Review
+ACT0069,CAL020,document,33,18.1,In Review
+ACT0070,CAL032,validate,27,6.5,Complete
+ACT0071,CAL020,escalate,2,18.5,Proposed
+ACT0072,CAL021,validate,13,8.7,Ready
+ACT0073,CAL021,validate,26,4.7,In Review
+ACT0074,CAL026,validate,33,14.3,Ready
+ACT0075,CAL035,automate,31,17.0,Proposed
+ACT0076,CAL007,escalate,33,5.4,Proposed
+ACT0077,CAL015,prioritize,3,4.1,Proposed
+ACT0078,CAL029,document,11,16.8,In Review
+ACT0079,CAL021,monitor,33,17.3,Complete
+ACT0080,CAL012,escalate,14,7.3,Complete
+ACT0081,CAL002,automate,8,17.7,Complete
+ACT0082,CAL016,monitor,18,10.2,Proposed
+ACT0083,CAL008,escalate,28,18.6,Proposed
+ACT0084,CAL010,monitor,25,20.7,Complete
+ACT0085,CAL013,monitor,5,8.9,Ready
+ACT0086,CAL021,automate,22,9.8,Proposed
+ACT0087,CAL030,prioritize,27,9.4,Ready
+ACT0088,CAL021,prioritize,40,13.0,Ready
+ACT0089,CAL026,automate,16,17.4,Complete
+ACT0090,CAL020,validate,14,22.6,In Review
+ACT0091,CAL005,document,26,12.4,Proposed
+ACT0092,CAL030,document,39,23.2,In Review
+ACT0093,CAL001,escalate,31,17.5,In Review
+ACT0094,CAL016,validate,17,23.4,Proposed
+ACT0095,CAL024,escalate,32,8.3,Complete
+ACT0096,CAL015,escalate,30,19.0,Proposed
+ACT0097,CAL029,monitor,37,2.3,In Review
+ACT0098,CAL001,validate,10,22.9,Ready
+ACT0099,CAL013,prioritize,12,13.5,Ready
+ACT0100,CAL018,validate,2,10.3,Proposed
+ACT0101,CAL005,validate,16,8.4,Complete
+ACT0102,CAL036,document,13,12.6,Proposed
+ACT0103,CAL031,document,40,18.7,Complete
+ACT0104,CAL029,document,36,9.1,Proposed
+ACT0105,CAL008,monitor,17,22.0,Ready
+ACT0106,CAL027,monitor,42,18.8,Proposed
+ACT0107,CAL017,escalate,33,8.5,In Review
+ACT0108,CAL014,document,27,4.1,Ready
+ACT0109,CAL006,document,16,22.5,In Review
+ACT0110,CAL025,validate,30,17.9,Complete
+ACT0111,CAL019,document,10,20.6,Proposed
+ACT0112,CAL017,escalate,5,13.5,Proposed
+ACT0113,CAL006,escalate,10,4.3,Complete
+ACT0114,CAL012,prioritize,33,21.9,Complete
+ACT0115,CAL003,document,14,13.6,Complete
+ACT0116,CAL017,validate,29,21.7,Complete
+ACT0117,CAL007,prioritize,11,23.5,In Review
+ACT0118,CAL018,automate,7,9.5,Ready
+ACT0119,CAL034,prioritize,18,21.9,Ready
+ACT0120,CAL008,prioritize,39,5.4,In Review
+ACT0121,CAL031,document,26,12.5,Proposed
+ACT0122,CAL031,monitor,24,22.3,Complete
+ACT0123,CAL027,validate,23,22.0,Proposed
+ACT0124,CAL017,monitor,6,20.2,Ready
+ACT0125,CAL003,monitor,31,12.8,Ready
+ACT0126,CAL018,prioritize,39,3.1,Proposed
+ACT0127,CAL002,document,8,23.8,In Review
+ACT0128,CAL032,escalate,17,14.7,In Review
+ACT0129,CAL024,document,35,9.1,Complete
+ACT0130,CAL030,document,12,14.3,In Review
+ACT0131,CAL023,automate,33,19.9,Proposed
+ACT0132,CAL011,escalate,38,13.3,Complete
+ACT0133,CAL036,automate,21,3.3,Ready
+ACT0134,CAL017,automate,9,6.4,Ready
+ACT0135,CAL035,automate,21,9.4,Proposed
+ACT0136,CAL031,validate,21,16.7,Ready
+ACT0137,CAL017,monitor,16,6.2,Complete
+ACT0138,CAL005,prioritize,29,6.4,Complete
+ACT0139,CAL010,document,40,3.8,Complete
+ACT0140,CAL007,prioritize,29,7.6,In Review
+ACT0141,CAL008,automate,36,4.5,Proposed
+ACT0142,CAL027,automate,39,16.1,In Review
+ACT0143,CAL004,escalate,6,22.5,In Review
+ACT0144,CAL005,document,13,15.2,Proposed
+ACT0145,CAL015,automate,23,7.3,In Review
+ACT0146,CAL002,escalate,22,16.9,Ready
+ACT0147,CAL024,validate,20,20.3,In Review
+ACT0148,CAL007,escalate,44,22.9,Ready
+ACT0149,CAL008,monitor,12,21.5,Ready
+ACT0150,CAL033,prioritize,40,22.1,In Review
+ACT0151,CAL005,automate,35,4.5,Proposed
+ACT0152,CAL036,automate,8,11.1,Proposed
+ACT0153,CAL034,prioritize,8,6.8,Ready
+ACT0154,CAL014,automate,16,9.7,Proposed
+ACT0155,CAL023,prioritize,35,10.7,Proposed
+ACT0156,CAL016,validate,16,20.6,Ready
+ACT0157,CAL006,automate,25,20.8,In Review
+ACT0158,CAL030,monitor,4,18.9,Ready
+ACT0159,CAL035,automate,14,8.1,Ready
+ACT0160,CAL007,validate,11,11.0,In Review
+ACT0161,CAL003,prioritize,4,22.9,Ready
+ACT0162,CAL020,prioritize,8,13.4,Ready
+ACT0163,CAL029,escalate,3,7.7,Proposed
+ACT0164,CAL030,prioritize,7,3.6,Proposed
+ACT0165,CAL024,escalate,43,19.7,Ready
+ACT0166,CAL014,automate,19,23.2,Proposed
+ACT0167,CAL011,automate,10,15.2,Ready
+ACT0168,CAL024,automate,28,9.9,Proposed
+ACT0169,CAL008,validate,7,11.1,Ready
+ACT0170,CAL028,automate,6,5.2,In Review
+ACT0171,CAL010,escalate,38,3.9,Ready
+ACT0172,CAL010,document,42,2.4,In Review
+ACT0173,CAL030,prioritize,8,11.2,Proposed
+ACT0174,CAL023,automate,23,10.6,Ready
+ACT0175,CAL003,validate,31,20.8,Proposed
+ACT0176,CAL033,automate,6,13.5,Complete
+ACT0177,CAL035,validate,24,10.5,Complete
+ACT0178,CAL019,automate,11,21.6,Proposed
+ACT0179,CAL012,automate,43,20.0,Ready
+ACT0180,CAL024,document,39,12.7,Ready
+ACT0181,CAL020,escalate,31,11.9,Complete
+ACT0182,CAL029,prioritize,31,13.7,Proposed
+ACT0183,CAL027,automate,37,8.1,Complete
+ACT0184,CAL030,validate,20,12.3,Complete
+ACT0185,CAL018,escalate,24,15.8,Ready
+ACT0186,CAL023,validate,19,12.1,Proposed
+ACT0187,CAL031,automate,31,19.9,In Review
+ACT0188,CAL005,automate,32,17.3,Complete
+ACT0189,CAL013,automate,37,11.9,In Review
+ACT0190,CAL011,prioritize,22,6.2,Complete
+ACT0191,CAL014,monitor,6,13.1,Proposed
+ACT0192,CAL008,document,5,18.0,Ready
+ACT0193,CAL005,document,6,16.3,In Review
+ACT0194,CAL031,monitor,10,7.3,Proposed
+ACT0195,CAL020,monitor,36,3.7,Complete
+ACT0196,CAL007,validate,14,3.6,Complete
+ACT0197,CAL013,prioritize,30,3.4,Ready
+ACT0198,CAL006,escalate,5,14.5,In Review
+ACT0199,CAL021,automate,9,14.3,In Review
+ACT0200,CAL027,automate,37,7.5,In Review
+ACT0201,CAL008,document,20,2.7,Proposed
+ACT0202,CAL009,monitor,39,8.9,In Review
+ACT0203,CAL001,validate,41,13.2,In Review
+ACT0204,CAL006,monitor,5,21.0,Proposed
+ACT0205,CAL015,prioritize,16,21.3,Ready
+ACT0206,CAL036,escalate,30,16.1,In Review
+ACT0207,CAL003,document,9,22.1,Ready
+ACT0208,CAL019,monitor,21,16.4,Proposed
+ACT0209,CAL015,escalate,16,8.8,Ready
+ACT0210,CAL027,validate,19,17.2,In Review
+ACT0211,CAL020,monitor,44,8.0,Ready
+ACT0212,CAL012,automate,23,14.4,Proposed
+ACT0213,CAL036,validate,42,20.2,Complete
+ACT0214,CAL018,prioritize,17,20.6,Proposed
+ACT0215,CAL015,escalate,4,15.2,Proposed
+ACT0216,CAL009,automate,26,9.2,Proposed
+ACT0217,CAL005,escalate,10,11.2,Ready
+ACT0218,CAL026,automate,30,22.8,Ready
+ACT0219,CAL033,escalate,9,5.8,Complete
+ACT0220,CAL023,escalate,28,5.1,Complete

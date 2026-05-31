@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+CAL022,Caller journey 22,Growth,98.39,49.9,81.0,858979
+CAL023,Caller journey 23,Growth,94.91,51.1,79.4,792899
+CAL011,Caller journey 11,Strategic,84.84,50.8,80.0,657320
+CAL024,Caller journey 24,Core,84.69,52.3,80.4,644243
+CAL016,Caller journey 16,Strategic,83.96,49.5,81.3,661937
+CAL036,Caller journey 36,Core,83.39,51.7,79.8,627780
+CAL029,Caller journey 29,Growth,82.88,47.5,79.5,655947
+CAL019,Caller journey 19,Growth,81.19,52.4,81.1,597428
+CAL026,Caller journey 26,Watch,81.08,50.6,81.5,612739
+CAL017,Caller journey 17,Growth,81.07,51.7,79.5,594263
+CAL009,Caller journey 9,Growth,79.61,51.8,81.5,582170
+CAL030,Caller journey 30,Strategic,79.34,51.8,80.4,573325
+CAL008,Caller journey 8,Watch,78.81,49.7,79.9,582042
+CAL004,Caller journey 4,Growth,78.45,49.9,80.9,579571
+CAL002,Caller journey 2,Watch,78.06,48.8,81.1,584734
+CAL020,Caller journey 20,Core,77.37,50.5,81.4,562029
+CAL007,Caller journey 7,Core,77.21,51.5,80.6,546753
+CAL021,Caller journey 21,Watch,77.06,50.5,80.2,551704
+CAL005,Caller journey 5,Strategic,76.76,52.1,81.2,538228
+CAL032,Caller journey 32,Growth,76.18,48.9,80.0,551991
+CAL027,Caller journey 27,Core,76.06,48.8,81.6,559027
+CAL001,Caller journey 1,Strategic,75.70,49.1,80.6,546305
+CAL006,Caller journey 6,Strategic,75.57,51.8,80.1,518932
+CAL013,Caller journey 13,Strategic,75.47,49.8,82.0,543356
+CAL010,Caller journey 10,Watch,74.09,52.5,79.2,488893
